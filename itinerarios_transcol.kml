@@ -790,36 +790,6 @@
 	<StyleMap id="msn_ylw-pushpin0">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin5</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin3">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin2</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin3</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin4</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin1</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin2">
-		<Pair>
-			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin1</styleUrl>
 		</Pair>
 		<Pair>
@@ -835,6 +805,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin000000">
@@ -1380,11 +1360,11 @@
 	<StyleMap id="msn_ylw-pushpin10">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin57</styleUrl>
+			<styleUrl>#sh_ylw-pushpin34</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin1000">
@@ -1667,6 +1647,16 @@
 			<styleUrl>#fetching1100</styleUrl>
 		</Pair>
 	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin103">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin141</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin57</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin10300">
 		<Pair>
 			<key>normal</key>
@@ -1880,11 +1870,11 @@
 	<StyleMap id="msn_ylw-pushpin11">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin1100">
@@ -1895,16 +1885,6 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin410</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin110000">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin4510</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin7320</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin110010">
@@ -2055,6 +2035,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin2214000000000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin11200">
@@ -2590,7 +2580,7 @@
 	<StyleMap id="msn_ylw-pushpin13">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+			<styleUrl>#sn_ylw-pushpin34</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -2600,7 +2590,7 @@
 	<StyleMap id="msn_ylw-pushpin130">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin141</styleUrl>
+			<styleUrl>#sn_ylw-pushpin1413</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -2650,7 +2640,7 @@
 	<StyleMap id="msn_ylw-pushpin131">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin23</styleUrl>
+			<styleUrl>#sn_ylw-pushpin233</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -2854,7 +2844,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin29</styleUrl>
+			<styleUrl>#sh_ylw-pushpin291</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin140">
@@ -3154,7 +3144,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+			<styleUrl>#sh_ylw-pushpin42</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin150">
@@ -3164,13 +3154,13 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+			<styleUrl>#sh_ylw-pushpin163</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin1500">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin34</styleUrl>
+			<styleUrl>#sn_ylw-pushpin340</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -3584,7 +3574,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+			<styleUrl>#sh_ylw-pushpin64</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin170">
@@ -4220,7 +4210,7 @@
 	<StyleMap id="msn_ylw-pushpin200">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin411</styleUrl>
+			<styleUrl>#sn_ylw-pushpin4110</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -4690,11 +4680,11 @@
 	<StyleMap id="msn_ylw-pushpin22">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin69</styleUrl>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin220">
@@ -4805,6 +4795,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin1270000000000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin223">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin69</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin2230">
@@ -5180,6 +5180,16 @@
 	<StyleMap id="msn_ylw-pushpin26">
 		<Pair>
 			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin260">
+		<Pair>
+			<key>normal</key>
 			<styleUrl>#sn_ylw-pushpin380</styleUrl>
 		</Pair>
 		<Pair>
@@ -5534,7 +5544,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin291</styleUrl>
+			<styleUrl>#sh_ylw-pushpin2910</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin3010">
@@ -6000,7 +6010,7 @@
 	<StyleMap id="msn_ylw-pushpin340">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin27</styleUrl>
+			<styleUrl>#sn_ylw-pushpin270</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
@@ -8034,7 +8044,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin42</styleUrl>
+			<styleUrl>#sh_ylw-pushpin422</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin5800">
@@ -8674,7 +8684,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin64</styleUrl>
+			<styleUrl>#sh_ylw-pushpin640</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin690">
@@ -8700,11 +8710,11 @@
 	<StyleMap id="msn_ylw-pushpin7">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin40</styleUrl>
+			<styleUrl>#sn_ylw-pushpin27</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin700">
@@ -8810,11 +8820,11 @@
 	<StyleMap id="msn_ylw-pushpin71">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin35</styleUrl>
+			<styleUrl>#sn_ylw-pushpin411</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+			<styleUrl>#sh_ylw-pushpin29</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin710">
@@ -8855,6 +8865,16 @@
 		<Pair>
 			<key>highlight</key>
 			<styleUrl>#sh_ylw-pushpin172000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin711">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin35</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin7130">
@@ -8954,7 +8974,7 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin34</styleUrl>
+			<styleUrl>#sh_ylw-pushpin340</styleUrl>
 		</Pair>
 	</StyleMap>
 	<StyleMap id="msn_ylw-pushpin7300">
@@ -10155,50 +10175,19 @@
 			<width>3</width>
 		</LineStyle>
 	</Style>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin5">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>7</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin3">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
 	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff0000ff</color>
-			<width>7</width>
+			<color>ffff0000</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin0">
@@ -10213,6 +10202,21 @@
 		</BalloonStyle>
 		<LineStyle>
 			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff00ff55</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -12908,9 +12912,16 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
-			<width>7</width>
+			<color>ff0000ff</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin160">
@@ -13041,6 +13052,12 @@
 		<LineStyle>
 			<color>ff00ff00</color>
 			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin163">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>7</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin1640">
@@ -13848,7 +13865,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff00ff</color>
+			<color>ff00ff00</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -15344,8 +15361,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff0000ff</color>
-			<width>6</width>
+			<color>ffff00ff</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin290">
@@ -15401,6 +15418,19 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin291">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2910">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -16230,6 +16260,12 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin34">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>7</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin340">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -16721,8 +16757,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ffff</color>
-			<width>4</width>
+			<color>ff0000ff</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin400">
@@ -17220,8 +17256,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
+			<color>ff00ffff</color>
+			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin420">
@@ -17303,6 +17339,19 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin4210">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin422">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -18604,16 +18653,9 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin6">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
-			<width>3</width>
+			<color>ff0000ff</color>
+			<width>7</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin600">
@@ -19167,6 +19209,19 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin64">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin640">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -19827,19 +19882,6 @@
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin7311">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin7320">
 		<IconStyle>
 			<scale>1.3</scale>
 			<Icon>
@@ -21280,6 +21322,21 @@
 			<width>7</width>
 		</LineStyle>
 	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
 	<Style id="sn_ylw-pushpin">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -21306,39 +21363,8 @@
 		<BalloonStyle>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ff00ff00</color>
+			<color>ff00ff55</color>
 			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin2">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin0">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff00ff00</color>
-			<width>4</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin4">
-		<BalloonStyle>
-		</BalloonStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin00000">
@@ -23564,8 +23590,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff00aa</color>
-			<width>5</width>
+			<color>ff00ff00</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin140">
@@ -23653,9 +23679,16 @@
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin141">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
 		<LineStyle>
-			<color>ff0000ff</color>
-			<width>4</width>
+			<color>ffff00aa</color>
+			<width>5</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin1410">
@@ -23721,6 +23754,12 @@
 		<LineStyle>
 			<color>ff00ff00</color>
 			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1413">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin142">
@@ -25838,8 +25877,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ff00ff00</color>
-			<width>6</width>
+			<color>ff0000ff</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin230">
@@ -25995,6 +26034,19 @@
 		<LineStyle>
 			<color>ff00ff00</color>
 			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin233">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin2330">
@@ -26333,6 +26385,12 @@
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin27">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>4</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin270">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -26698,8 +26756,8 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<color>ffff0000</color>
-			<width>6</width>
+			<color>ff0000ff</color>
+			<width>3</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin300">
@@ -27452,6 +27510,19 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffff0000</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin340">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -27984,17 +28055,10 @@
 			<width>4</width>
 		</LineStyle>
 	</Style>
-	<Style id="sn_ylw-pushpin40">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
+	<Style id="sn_ylw-pushpin4">
 		<LineStyle>
-			<color>ffff00ff</color>
-			<width>3</width>
+			<color>ff00ff00</color>
+			<width>4</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin400">
@@ -28283,6 +28347,19 @@
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin411">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4110">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -28628,19 +28705,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ff00ff00</color>
-			<width>3</width>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin4510">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
 			<width>3</width>
 		</LineStyle>
 	</Style>
@@ -32494,7 +32558,7 @@
 		</Pair>
 	</StyleMap>
 	<Folder>
-		<name>06_09_2026</name>
+		<name>20_09_2026</name>
 		<visibility>0</visibility>
 		<open>1</open>
 		<Folder>
@@ -32506,7 +32570,7 @@
 				<Placemark>
 					<name>4216I</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.2698813376775,-20.230460022888,0 -40.2697096763003,-20.2311043074327,0 -40.2697096763003,-20.2312678948803,0 -40.2697096763003,-20.2312678948803,0 -40.2698813376775,-20.2312678948803,0 -40.2698813376775,-20.2312678948803,0 -40.2727995810851,-20.2298157356741,0 -40.274001210724,-20.2315875190889,0 -40.2743445334785,-20.2319096593583,0 -40.274687856232,-20.2322343156737,0 -40.2752028403628,-20.2323928685112,0 -40.2755461631164,-20.2325539378953,0 -40.2757178244936,-20.2328760761629,0 -40.2757178244936,-20.2330371450455,0 -40.2757178244936,-20.2333617990062,0 -40.2758894858709,-20.2341646225551,0 -40.2760611472481,-20.2346478246984,0 -40.2793227134102,-20.2398018874231,0 -40.2827559409486,-20.244955779203,0 -40.2858458457343,-20.2496288623725,0 -40.2882491050111,-20.2533330050305,0 -40.2896223960272,-20.2552630497843,0 -40.2911673484196,-20.2576787173637,0 -40.292025655304,-20.2591280998691,0 -40.2930556235656,-20.2604189447698,0 -40.2932272849429,-20.2608995489984,0 -40.297175496613,-20.2655721523267,0 -40.3002654013978,-20.2691123671434,0 -40.3009520469058,-20.2697590074645,0 -40.3011237082831,-20.2700785524648,0 -40.3011237082831,-20.2704006129012,0 -40.3012953696594,-20.2707251887588,0 -40.3011237082831,-20.2716888479625,0 -40.3009520469058,-20.2733016427918,0 -40.3007803855286,-20.2741042598666,0 -40.3007803855286,-20.2752314392167,0 -40.3011237082831,-20.2765196341577,0 -40.3019820151675,-20.2824773965639,0 -40.3023253379219,-20.2834434986261,0 -40.3026686606755,-20.2840900791953,0 -40.3030119834291,-20.2847316253445,0 -40.3036986289371,-20.2855366991073,0 -40.3038702903144,-20.2858587274416,0 -40.3042136130679,-20.286341768689,0 -40.3042136130679,-20.286824808431,0 -40.3043852744452,-20.2873078466686,0 -40.3040419516907,-20.288112907051,0 -40.3018103537902,-20.2939117340677,0 -40.2992354331362,-20.2998663123565,0 -40.2956305442206,-20.3085600383591,0 -40.2970038352357,-20.3104919111835,0 -40.3016386924139,-20.3111358634345,0 -40.3040419516907,-20.311457838555,0 -40.3042136130679,-20.311457838555,0 -40.3045569358215,-20.3109748756227,0 -40.3047285971987,-20.3108164030823,0 -40.304900258576,-20.3106528994976,0 -40.3052435813295,-20.3104919111835,0 -40.3057585654603,-20.3103334381487,0 -40.3085051474916,-20.3098504717083,0 -40.3138266501778,-20.3106528994976,0 -40.3193198142394,-20.311457838555,0 -40.3200064597475,-20.311457838555,0 -40.3218947348944,-20.3138751460029,0 -40.3241263327948,-20.3170922947533,0 -40.3249846396792,-20.3182191613772,0 -40.3250651583353,-20.3184203866962,0 -40.3250812515899,-20.3186668873558,0 -40.3251402601881,-20.318978785587,0 -40.3253280148189,-20.3192303159598,0 -40.3255855068843,-20.3194818459246,0 -40.3257839903516,-20.3197233143058,0 -40.3260146079408,-20.3204753852873,0 -40.3263579306953,-20.3206363632165,0 -40.3270445762024,-20.3206363632165,0 -40.328074544464,-20.3198289566045,0 -40.3284178672185,-20.3190265763894,0 -40.3299628196109,-20.3185436370755,0 -40.3364859519351,-20.3209558032985,0 -40.3378592429512,-20.3214387350834,0 -40.3395758567199,-20.3220851570403,0 -40.3397475180972,-20.3220851570403,0 -40.3404341636052,-20.321760688769,0 -40.3414641318668,-20.3216022272732,0 -40.3412924704896,-20.3203118919067,0 -40.3440390525208,-20.3198289566045,0 -40.3450690207825,-20.3201509136407,0 -40.3454123435369,-20.3201509136407,0 -40.3457556662905,-20.3199924504953,0 -40.3459273276677,-20.3198289566045,0 -40.3464423117985,-20.3195095141961,0 -40.3467856345521,-20.3193460197949,0 -40.3471289573066,-20.3193460197949,0 -40.3478156028137,-20.3193460197949,0 -40.3483305869445,-20.3196679778352,0 -40.3497038779606,-20.3196679778352,0 -40.3509055075995,-20.3211192959986,0 -40.3509055075995,-20.321277757989,0 -40.3509055075995,-20.3216022272732,0 -40.3507338462222,-20.3224045941309,0 -40.3503905234686,-20.3233704471484,0 -40.3502188620914,-20.3238533713957,0 -40.3521071372383,-20.3269118566183,0 -40.3524504599919,-20.3273947698092,0 -40.3527937827455,-20.3280386517185,0 -40.3533087668763,-20.3290044695559,0 -40.3534804282535,-20.3294873762128,0 -40.3536520896307,-20.3299702813617,0 -40.3538237510071,-20.3302947324118,0 -40.3538237510071,-20.3307776350395,0 -40.3538237510071,-20.3314215028643,0 -40.3538237510071,-20.3320628529145,0 -40.3536520896307,-20.3323872995741,0 -40.3527937827455,-20.3322238187844,0 -40.3526221213691,-20.3322238187844,0 -40.3524504599919,-20.3322238187844,0 -40.3522787986146,-20.3322238187844,0 -40.3522787986146,-20.3320628529145,0 -40.3522787986146,-20.3319044019732,0 -40.3524504599919,-20.331740920673,0 -40.3524504599919,-20.3315799543004,0 -40.3524504599919,-20.330614152548,0 -40.3529654441227,-20.330614152548,0 -40.3531371054999,-20.3304531850026,0 -40.3531371054999,-20.3304531850026,0 -40.3531371054999,-20.3302947324118,0 -40.3531371054999,-20.3302947324118,0 -40.3531371054999,-20.3301312494098,0 -40.3529654441227,-20.3301312494098,0 -40.3527937827455,-20.3299702813617,0 -40.3526301679959,-20.3300105233896,0 -40.3525175152169,-20.3300205838952,0 -40.3523780403487,-20.3301312494098,0 -40.3523190317505,-20.3302368846005,0 -40.3523351250042,-20.3306946362575,0 -40.3534026441921,-20.3306896060276,0 -40.3536601362575,-20.3304934269048,0 -40.3537781534539,-20.3303022777768,0 -40.3539605436675,-20.3301463401561,0 -40.3543092308392,-20.3301614309001,0 -40.3545023498883,-20.3302670660703,0 -40.3548456726419,-20.3305537897382,0 -40.35490468124,-20.3309159662436,0 -40.3549958763473,-20.3316403167097,0 -40.3551031647073,-20.3322137584221,0 -40.355344563519,-20.3325004784813,0 -40.3555376825681,-20.3326111422212,0 -40.3557468948708,-20.3326664740614,0 -40.358793884312,-20.3328928313843,0 -40.358906537091,-20.332787198008,0 -40.3590513763774,-20.3326664740614,0 -40.3592123089182,-20.3325558103611,0 -40.3593571482055,-20.3325759310396,0 -40.3594912586564,-20.3326564137288,0 -40.359534174,-20.332767077357,0 -40.3595556316727,-20.3328978615434,0 -40.3594966230736,-20.3330688868504,0 -40.3594376144755,-20.3332248215246,0 -40.3592337665901,-20.3334712985921,0 -40.3589038548815,-20.333853588776,0 -40.3586705550845,-20.3341428208531,0 -40.3589548692399,-20.334374206125,0 -40.3590353355099,-20.3344999588451,0 -40.3590460643462,-20.3346055910504,0 -40.3580160960846,-20.3358027510055,0 -40.356846652954,-20.3348470358212,0 -40.3567876443558,-20.3335442356072,0 -40.356846652954,-20.3326790494768,0 -40.359287463158,-20.3329305575723,0 -40.3597327098543,-20.3329758289856,0 -40.3603013381651,-20.3328953464635,0 -40.3610845431976,-20.3325885064624,0 -40.362355910271,-20.3318339792802,0 -40.3634663448026,-20.3312907174291,0 -40.3639115914989,-20.3311297505879,0 -40.3643943891215,-20.3310190857879,0 -40.3647859916378,-20.3310190857879,0 -40.3653063401868,-20.331054297324,0 -40.3659554347685,-20.3312655663714,0 -40.3663953170475,-20.3314818653354,0 -40.3670283183746,-20.3319999755757,0 -40.3677417859727,-20.3326337779758,0 -40.3685410842589,-20.333337999818,0 -40.3690882548979,-20.3337404108593,0 -40.3695495948487,-20.3340170678425,0 -40.3700914010695,-20.334313844783,0 -40.3708799705202,-20.3346307415657,0 -40.3721835241009,-20.3350884802148,0 -40.3732725009616,-20.3353953152545,0 -40.3739323243787,-20.3355059769231,0 -40.37490394434355,-20.33549458082604,0 -40.37534835355261,-20.33538243571974,0 -40.37553469100612,-20.3352434721329,0 -40.37568278295204,-20.33505970757419,0 -40.37576871233614,-20.33475945107023,0 -40.37570172168343,-20.33448164147208,0 -40.37549605181148,-20.33391496426506,0 -40.37547208287945,-20.33367299204781,0 -40.3755580722628,-20.33356990379039,0 -40.37573011002576,-20.33355641384335,0 -40.37585438753587,-20.33363703972547,0 -40.37626089343981,-20.33456899963348,0 -40.37641867759035,-20.334806457141,0 -40.37674375678462,-20.33512005076386,0 -40.37709513474267,-20.33545798712764,0 -40.37736759818992,-20.33564163747999,0 -40.3776927814179,-20.3358329313888,0 -40.3781863078769,-20.3361095846275,0 -40.379060708015,-20.3365522287792,0 -40.3795113191294,-20.3367735503802,0 -40.380814872711,-20.3376035035602,0 -40.3814049586945,-20.3379556035639,0 -40.3818521908526,-20.3382108755639,0 -40.3821794203525,-20.3383366251631,0 -40.3825261220624,-20.3383982424295,0 -40.3830860069996,-20.3384422547468,0 -40.383389793365,-20.3384083023893,0 -40.383783381344,-20.3383416551451,0 -40.3841159752612,-20.3381957856056,0 -40.3847275189166,-20.337848716147,0 -40.3853390625719,-20.3375117059274,0 
@@ -32517,7 +32581,7 @@
 					<name>4216V</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin1</styleUrl>
+					<styleUrl>#msn_ylw-pushpin11</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.38380354410516,-20.33871969606375,0 -40.38341070556219,-20.33877932618459,0 -40.38308433944734,-20.33880493147968,0 -40.38251339354705,-20.33876260674962,0 -40.3821084215076,-20.33869189297564,0 -40.38155591861363,-20.33850221312482,0 -40.38055570537708,-20.33791581316138,0 -40.37917071602931,-20.33705964981333,0 -40.37869916829472,-20.33668858797446,0 -40.3783672811878,-20.3365131691879,0 -40.3777280345124,-20.3362407825167,0 -40.3769005855002,-20.3359632410087,0 -40.375708993819,-20.3357995090334,0 -40.3739283775297,-20.3357217938804,0 -40.3730357653281,-20.3356219941613,0 -40.3714290089969,-20.3350991461257,0 -40.3701180750273,-20.3346125732046,0 -40.3693755678642,-20.3342612395279,0 -40.3688021269338,-20.3338392735473,0 -40.3680138179438,-20.3331240001107,0 -40.3672031158136,-20.3324233904968,0 -40.3664953843712,-20.3317909274116,0 -40.3661604241913,-20.3315794065121,0 -40.3657019662431,-20.3313713215652,0 -40.3650858970036,-20.3311940456016,0 -40.3646418295425,-20.3311756770177,0 -40.3638758680742,-20.3313128434367,0 -40.3628454172309,-20.3318474055407,0 -40.3618704475871,-20.3323637792474,0 -40.361447775417,-20.3326117614802,0 -40.3608097214149,-20.3329652162855,0 -40.360197851579,-20.3331440445443,0 -40.359399088712,-20.3331552525177,0 -40.3582569098178,-20.3330677735574,0 -40.3570017996362,-20.3329565567264,0 -40.3555348124921,-20.3328529084946,0 -40.35502690659319,-20.33276856710648,0 -40.35428821957997,-20.33256771089157,0 -40.35313167186447,-20.33225925128973,0 -40.35284079417455,-20.33219110739544,0 -40.35264561924281,-20.33226290981262,0 -40.35236240405059,-20.33224141743231,0 -40.35226287040768,-20.3320727611165,0 -40.35232791075406,-20.33193638027037,0 -40.3523776360049,-20.33176052536809,0 -40.35241587392634,-20.33154878436352,0 -40.35235451675607,-20.33078125121972,0 -40.35240042821815,-20.33069152652869,0 -40.35292091420279,-20.33065197634357,0 -40.35319645711136,-20.3305765727712,0 -40.35325384460847,-20.33045454720186,0 -40.35327294587761,-20.33024280847309,0 -40.35320786796137,-20.33014233312215,0 -40.35287487604634,-20.32995576665683,0 -40.35243860099471,-20.33007425796738,0 -40.3523161531358,-20.3302034700422,0 -40.35236214069796,-20.33059104740968,0 -40.35268745857996,-20.33065559856548,0 -40.35343758005155,-20.33064831199345,0 -40.35357534282742,-20.3305549842719,0 -40.35364036991997,-20.3303432384856,0 -40.35359057861483,-20.33010997707997,0 -40.35333784242061,-20.32925374976049,0 -40.35300859422734,-20.32853963783106,0 -40.35264388440956,-20.32795091291282,0 -40.35224196496041,-20.32748443386574,0 -40.35210032932208,-20.32726912910566,0 -40.35206203185839,-20.32709687419218,0 -40.3520466841236,-20.32685914865994,0 -40.35195480384864,-20.32666178103673,0 -40.35069379244007,-20.32450038386812,0 -40.35037224571519,-20.32396211611864,0 -40.35027271389683,-20.32375398225595,0 -40.35024207779619,-20.32361402523764,0 -40.35026501579765,-20.32344893983593,0 -40.35033768658722,-20.3231699099444,0 -40.35065522459723,-20.32248800869926,0 -40.35078636797078,-20.32207761214296,0 -40.35077485610216,-20.32186946747937,0 -40.35067914342334,-20.32160391415932,0 -40.35034998698666,-20.32132403578802,0 -40.35002850958382,-20.32121282588198,0 -40.3496970571678,-20.3211741611266,0 -40.349101263379,-20.3211745946528,0 -40.348852409229,-20.3211150249836,0 -40.3483246100152,-20.3209870204164,0 -40.3478243151206,-20.3209174170034,0 -40.3474828413253,-20.3209602037567,0 -40.3462076504206,-20.321335386834,0 -40.3451452971144,-20.3216461294871,0 -40.3447236809784,-20.3217643358521,0 -40.3442291270257,-20.3217421540786,0 -40.3437552444736,-20.3216609091781,0 -40.3430422630766,-20.3218011000787,0 -40.3413365529066,-20.3221622319935,0 -40.3396840457791,-20.3221909638727,0 -40.3383200935591,-20.3220344950076,0 -40.3376819851498,-20.3219318760697,0 -40.3360535975931,-20.3213218586527,0 -40.3342196364418,-20.3207143156015,0 -40.3338942931929,-20.3205877806093,0 -40.3334916832464,-20.3203505912421,0 -40.3331143164836,-20.3202258017278,0 -40.3314246623734,-20.3199194953028,0 -40.3299487444441,-20.3197100814754,0 -40.3299411221087,-20.3196956504875,0 -40.329326014158,-20.3196437756025,0 -40.3288787318351,-20.3196949517197,0 -40.3282276076538,-20.319943005598,0 -40.3273712260501,-20.3205121355377,0 -40.3270477470134,-20.3207076328317,0 -40.3267518660123,-20.3208104133825,0 -40.3263781104521,-20.3208448061453,0 -40.3261308372548,-20.3207430249106,0 -40.3258456814506,-20.3205025665826,0 -40.3257322060469,-20.3202125691102,0 -40.3256532837653,-20.3199585079818,0 -40.3255776879396,-20.3197190715156,0 -40.3253747647487,-20.3195473243665,0 -40.3250566112152,-20.3191489462705,0 -40.324999856958,-20.3189430420895,0 -40.3249463119168,-20.3184772549443,0 -40.3248375728014,-20.3182725053069,0 -40.3232955538996,-20.3162056423666,0 -40.3222854550948,-20.3148635024766,0 -40.3214705079843,-20.313760168604,0 -40.320800039349,-20.3128741890412,0 -40.3203243105121,-20.3122888261375,0 -40.3199770999701,-20.3118520192728,0 -40.3198587595739,-20.3117039823628,0 -40.3195995629972,-20.3116461349191,0 -40.3178347051776,-20.311315248661,0 -40.3165665373532,-20.3111453695621,0 -40.3152627538732,-20.3109532717862,0 -40.3136435561733,-20.3107183301789,0 -40.3119155604648,-20.3104987784715,0 -40.3098819914666,-20.3101759845942,0 -40.3087504355492,-20.3100339880758,0 -40.3083294051444,-20.3100106916295,0 -40.3069291593388,-20.3101882053193,0 -40.3058555641451,-20.310356922122,0 -40.3053558851559,-20.3104736170237,0 -40.3050084937106,-20.3106190660495,0 -40.3047701140835,-20.3108381554518,0 -40.3044404648501,-20.311355035153,0 -40.3043895432956,-20.3114140029684,0 -40.3042807074764,-20.3115758277522,0 -40.3040537490004,-20.3116416266956,0 -40.3040459096465,-20.3116416142324,0 -40.3036750887154,-20.3116050542071,0 -40.3036671651721,-20.3115976916869,0 -40.3006137454948,-20.311145776284,0 -40.2983027722846,-20.3108512677035,0 -40.297096381459,-20.3106877472469,0 -40.2968363849747,-20.3105842370129,0 -40.2964644014203,-20.310019139197,0 -40.2957382807953,-20.3089058179252,0 -40.2955765596445,-20.3086632845242,0 -40.2955852056039,-20.3084503357528,0 -40.2957644107149,-20.3081045734838,0 -40.2970984805704,-20.3049023327861,0 -40.2981047758045,-20.3024044011789,0 -40.2989027426965,-20.3004768593389,0 -40.2995066553832,-20.298985743249,0 -40.299966847456,-20.2979085992383,0 -40.3005993588163,-20.2964455521934,0 -40.301072500847,-20.2951481054169,0 -40.3017796929663,-20.2934280140424,0 -40.3024053547358,-20.2919376791788,0 -40.3029881856538,-20.2906548428182,0 -40.3035198678522,-20.2891944767119,0 -40.3039085899143,-20.2882978390227,0 -40.3040567662069,-20.2878626609256,0 -40.3041360047743,-20.287214471448,0 -40.3041372577286,-20.2867842864854,0 -40.3040428979292,-20.2865542824305,0 -40.3038856114883,-20.28625694886,0 -40.3035696336651,-20.2858085716413,0 -40.3028980471577,-20.2849208991045,0 -40.3025827248644,-20.2844398843876,0 -40.302220470576,-20.2836431134839,0 -40.3019057317997,-20.2829709604519,0 -40.3017730878312,-20.2824246835411,0 -40.301461551694,-20.2802273728516,0 -40.30097467852011,-20.2773059425294,0 -40.30086140630309,-20.27725335314889,0 -40.30077645985364,-20.27712902808249,0 -40.30074071251958,-20.27698212801318,0 -40.30079473764078,-20.27683327193616,0 -40.30086713105199,-20.27676602001618,0 -40.3007225360111,-20.2753740640628,0 -40.3006770570242,-20.2739440499817,0 -40.3008712385001,-20.2720716491441,0 -40.3010350431338,-20.2711500997887,0 -40.3010646536451,-20.2709798018005,0 -40.3010489058712,-20.270684958415,0 -40.3009868511581,-20.2704423321743,0 -40.3006668239458,-20.2699365400499,0 -40.3001062328007,-20.2692218456087,0 -40.2993318211905,-20.2683014360531,0 -40.2981279464534,-20.2669285454682,0 -40.2970178310246,-20.2656591634039,0 -40.2962663277611,-20.2647627738695,0 -40.2951180663297,-20.2633949104043,0 -40.2941017471663,-20.262138464881,0 -40.2931138120377,-20.2609698917249,0 -40.2925529058722,-20.260115171024,0 -40.2917850786287,-20.2590022381495,0 -40.2912043487715,-20.2581153166584,0 -40.2901046292148,-20.2564139401786,0 -40.2881298714892,-20.2534005345868,0 -40.2866887876223,-20.2511629106695,0 -40.2851655848174,-20.2488034727931,0 -40.2818827609987,-20.2438477546337,0 -40.2795573256584,-20.2403544196454,0 -40.2779073931761,-20.2378042354341,0 -40.27658223792991,-20.2361157990441,0 -40.2732509526413,-20.2309648995758,0 -40.2730925496084,-20.2308693703355,0 -40.2724833767113,-20.2311938279507,0 -40.2705519038121,-20.2323173319291,0 -40.2704387621029,-20.2323915609326,0 -40.26985838068987,-20.23152811698058,0 -40.26983072013483,-20.2313375900176,0 -40.26991239028131,-20.23119227984508,0 
@@ -32573,7 +32637,7 @@
 				<Placemark>
 					<name>4228I</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.2698770197526,-20.2305410249456,0 -40.2697321804663,-20.2310947068492,0 -40.2697375448845,-20.2312406772041,0 -40.2698126467363,-20.2312809448645,0 -40.2698931130072,-20.231341346335,0 -40.2708318861624,-20.2307977322554,0 -40.2718618544241,-20.2323581008994,0 -40.2719101341859,-20.2325091034855,0 -40.2719530495304,-20.2327104400392,0 -40.2719315918586,-20.2328664756887,0 -40.2716740997932,-20.2336516849664,0 -40.2716043623587,-20.2338429532917,0 -40.2716097267768,-20.2343311897933,0 -40.2716311844487,-20.2346382243337,0 -40.2716848286287,-20.2349955916412,0 -40.2717438372277,-20.2352623582514,0 -40.2718618544241,-20.2355039578046,0 -40.2723285587922,-20.2362790871688,0 -40.2725109490057,-20.2365559181479,0 -40.2725806864403,-20.2367572494591,0 -40.2726128729485,-20.2369938134166,0 -40.2725914152757,-20.2371901108957,0 -40.2725592287676,-20.2373662750884,0 -40.2724841269158,-20.2375776718563,0 -40.2723500164649,-20.2378092013203,0 -40.272189083924,-20.2380558301513,0 -40.271722379555,-20.2388561128486,0 -40.2716740997932,-20.2390071091217,0 -40.271668735375,-20.2392134704575,0 -40.2717974814077,-20.2394198315193,0 -40.2719637783668,-20.2395909599975,0 -40.2724573048258,-20.2399634154439,0 -40.2730527552266,-20.2404465995592,0 -40.2734389933247,-20.2400137471932,0 -40.2735410220415,-20.2399986476699,0 -40.2736322171478,-20.2400288467142,0 -40.2737234122542,-20.2401295101531,0 -40.2737824208523,-20.2402553393599,0 -40.2737609631805,-20.2404264669172,0 -40.273637581566,-20.2406982573565,0 -40.2735571152951,-20.2408039535105,0 -40.2734820134424,-20.2409046164465,0 -40.2731601483606,-20.240788854064,0 -40.2728758342052,-20.2407485888677,0 -40.2726451642298,-20.2408593181335,0 -40.2724520451808,-20.2410153456019,0 -40.2722857482217,-20.2411009089856,0 -40.2721677310254,-20.2411562735028,0 -40.2719263322145,-20.24120157173,0 -40.2717010266573,-20.2412871350112,0 -40.2714703566819,-20.2414582614321,0 -40.2686701304697,-20.2435872596785,0 -40.2685735709452,-20.2437130860851,0 -40.267720628479,-20.2453538530965,0 -40.2659181840212,-20.2488869796618,0 -40.2634773738171,-20.2536329191945,0 -40.2634666449808,-20.2537989992878,0 -40.2638850695879,-20.2542368459544,0 -40.2640084512025,-20.254604233583,0 -40.2639816291125,-20.2556359339214,0 -40.2638206965716,-20.2598532523029,0 -40.2668891436846,-20.2572262488194,0 -40.2669334263261,-20.2572155545094,0 -40.2669468373711,-20.2571601957157,0 -40.2669656128343,-20.2571375489316,0 -40.2670138925961,-20.2571249673833,0 -40.2670594901493,-20.2571476141691,0 -40.267121180957,-20.2571400652409,0 -40.2673572153506,-20.2571526467889,0 -40.2673303932606,-20.2578672769987,0 -40.2672660202442,-20.2593317553889,0 -40.2670729011952,-20.2634231630283,0 -40.2669387907443,-20.2657229598211,0 -40.26986348884699,-20.26684273551368,0 -40.27010667054643,-20.26687494771608,0 -40.27025399400726,-20.26677538675753,0 -40.27037399780227,-20.26645410533962,0 -40.27084143283751,-20.26491032041073,0 -40.27092369051601,-20.26476896546878,0 -40.27106414497518,-20.26471438596811,0 -40.27120798324555,-20.26477227009257,0 -40.27123876763694,-20.26488795585784,0 -40.27101572535482,-20.26598037486718,0 -40.27102929077564,-20.26634989832663,0 -40.27113881811118,-20.26657164576536,0 -40.27134349654338,-20.26683998427137,0 -40.2715900631935,-20.26698465774135,0 -40.27208928290973,-20.26728827640638,0 -40.27234264625556,-20.26758718484926,0 -40.27282536535676,-20.26828781774572,0 -40.2729828686665,-20.26846459502733,0 -40.2732711073002,-20.26865900794167,0 -40.2737194151329,-20.268885753787,0 -40.2746045441082,-20.2693738801282,0 -40.2772599310331,-20.2710445689706,0 -40.2781128734993,-20.2715628814306,0 -40.2787566036628,-20.2719805494342,0 -40.2792340368673,-20.2722724131546,0 -40.2803122848916,-20.2730624552987,0 -40.2824151367594,-20.2746173672558,0 -40.2846145481516,-20.2764993434006,0 -40.2855372280524,-20.2773598115162,0 -40.2868515104703,-20.2786681164625,0 -40.2874201387811,-20.2792417543811,0 -40.2876025289938,-20.2794430303414,0 -40.2883750051909,-20.2807664132701,0 -40.2892440409116,-20.2822055164865,0 -40.2902042717387,-20.2838408448365,0 -40.2904456705496,-20.2843742097374,0 -40.2906387895986,-20.2849176362392,0 -40.2908372730659,-20.2856623287212,0 -40.2909499258449,-20.2861755606469,0 -40.2910142988613,-20.2870460383616,0 -40.2910464853694,-20.2879165111869,0 -40.2909606546804,-20.2885605572986,0 -40.290569052165,-20.290215944789,0 -40.2903437466078,-20.2911568410436,0 -40.2901613563942,-20.2917103067603,0 -40.2899253220015,-20.2922587390204,0 -40.2893191427634,-20.2933706920485,0 -40.2892225832389,-20.2936524526349,0 -40.2892064899853,-20.2938335841697,0 -40.2892494053289,-20.29405999829,0 -40.2894264311243,-20.2945631395965,0 -40.2896410078452,-20.295086404821,0 -40.2904993147305,-20.2961278986154,0 -40.2915561050821,-20.2976372974845,0 -40.2918886990002,-20.2981353958843,0 -40.2919798941065,-20.2983064596113,0 -40.2920871824674,-20.298643555227,0 -40.2922266573356,-20.2990510877524,0 -40.2922803015165,-20.2994133379864,0 -40.2922963947701,-20.2997303062465,0 -40.2922212929174,-20.3004195841914,0 -40.2919584364347,-20.3011390462196,0 -40.2918243259838,-20.3016773827549,0 -40.2918940634184,-20.3033125056157,0 -40.2920013517783,-20.3036043103413,0 -40.2922588438438,-20.3040369853023,0 -40.2923929542946,-20.3042331979679,0 -40.2924465984755,-20.3043237575757,0 -40.2923714966228,-20.3047111508554,0 -40.2921783775738,-20.3052695992031,0 -40.292130097812,-20.3056519590718,0 -40.2920603603774,-20.3062003419728,0 -40.2920067161965,-20.3065977925862,0 -40.2918726057465,-20.30709083117,0 -40.2917921394757,-20.307387659764,0 -40.2916794866975,-20.3077297665907,0 -40.2915990204266,-20.3079008197201,0 -40.2914219946321,-20.308252987333,0 -40.2910947651322,-20.3088063919641,0 -40.2908050865586,-20.3092138977462,0 -40.2903222889359,-20.3097924534951,0 -40.289775118297,-20.3103760379724,0 -40.2895980925016,-20.3106376440937,0 -40.2894532532143,-20.3108791262743,0 -40.2892976850916,-20.3111960710643,0 -40.2892762274198,-20.3114979226423,0 -40.2893245071816,-20.3119859147819,0 -40.2893566936898,-20.3121519323759,0 -40.2895337194852,-20.3125393060684,0 -40.2898126692224,-20.3129015247481,0 -40.2914595455575,-20.3149138353111,0 -40.2919530720165,-20.3154823083052,0 -40.2920871824674,-20.3156281992678,0 -40.2923178524428,-20.3157740900928,0 -40.2926987261228,-20.3160004721359,0 -40.2932029814172,-20.3161061169754,0 -40.2938198894907,-20.3161010862702,0 -40.2976661772181,-20.3161161783852,0 -40.2979987711362,-20.3161664854229,0 -40.2983903736525,-20.3162520073499,0 -40.2987766117506,-20.3162972836455,0 -40.2991789431024,-20.3163475906244,0 -40.2997046560695,-20.3162469766495,0 -40.3011530489374,-20.3157338443614,0 -40.3012871593883,-20.315683537183,0 -40.3016894907409,-20.315437031772,0 -40.3019201607163,-20.3153489940295,0 -40.3023385853226,-20.3153565401242,0 -40.3031673879084,-20.3154948851185,0 -40.3038406223705,-20.3155854381387,0 -40.3041544408255,-20.3156986293388,0 -40.3043636531281,-20.3158973425798,0 -40.304910823768,-20.3164406584931,0 -40.3064718694141,-20.318010227084,0 -40.3065898866113,-20.3181183858709,0 -40.3067749590327,-20.3182265445831,0 -40.3070753664426,-20.3182793662524,0 -40.3074025959425,-20.3182793662524,0 -40.3080892414506,-20.318254213079,0 -40.3101706356465,-20.3181334777892,0 -40.3103852123674,-20.3180932326714,0 -40.3107499927937,-20.317972497256,0 -40.3110289425309,-20.3178014552565,0 -40.3114259094653,-20.3175398612435,0 -40.311661943858,-20.3172480827852,0 -40.3121769279888,-20.317077039985,0 -40.3124987930706,-20.3169663651304,0 -40.3129815906941,-20.3168255061112,0 -40.3135394901686,-20.3168355674742,0 -40.3141510338239,-20.3169160583527,0 -40.3195476383619,-20.3177813326553,0 -40.3212213367879,-20.3181234165105,0 -40.3217363209187,-20.3182189986291,0 -40.322428330845,-20.3184302852077,0 -40.3229862303194,-20.318681816473,0 -40.3233778328357,-20.3189232861027,0 -40.3237211555901,-20.3191295411129,0 -40.3243970722618,-20.3196728456778,0 -40.3246331066545,-20.3199193443422,0 -40.3248745054663,-20.3202765151792,0 -40.3250515312608,-20.3205934407249,0 -40.3252285570562,-20.3207996935087,0 -40.3254860491216,-20.320985823834,0 -40.3259742111624,-20.3211417706909,0 -40.3265160173832,-20.3211266790661,0 -40.3269880861695,-20.3210361292886,0 -40.3272992224158,-20.3209355183631,0 -40.3278356642184,-20.3206638685352,0 -40.3282862753329,-20.3203720959677,0 -40.3285437673983,-20.3202563929007,0 -40.3290533871118,-20.3201608120407,0 -40.3297507614553,-20.3201859649041,0 -40.3300779909552,-20.3184654996096,0 -40.331440553135,-20.3190037758953,0 -40.3333878368791,-20.3197583656669,0 -40.3366923183857,-20.3210160071089,0 -40.3378456682619,-20.3214134196789,0 -40.3392135948598,-20.3219868993094,0 -40.3394442648352,-20.3220422349507,0 -40.3396427483024,-20.3220422349507,0 -40.3399485201296,-20.3219667772525,0 -40.3406566233095,-20.3217152513284,0 -40.3414022774157,-20.3215995492658,0 -40.3412574381293,-20.3202362706196,0 -40.3442025036279,-20.3198287938581,0 -40.3451037258568,-20.3201054757265,0 -40.345575794643,-20.3200652311216,0 -40.3458440155448,-20.3199797113021,0 -40.3461176008638,-20.3197835185966,0 -40.3463214487492,-20.3195772644573,0 -40.3466218561592,-20.3194062242317,0 -40.3470027298391,-20.319275428637,0 -40.3472924084127,-20.3192905204424,0 -40.3476679176744,-20.3193961630358,0 -40.3480326981007,-20.3195420503085,0 -40.3485423178133,-20.3196275703707,0 -40.3491806835596,-20.3196326009604,0 -40.3496098370013,-20.3196326009604,0 -40.3497439474522,-20.3197030292088,0 -40.350832924312,-20.3211317096078,0 -40.3509294838365,-20.3213379616741,0 -40.3508865684929,-20.321730342895,0 -40.3508221954765,-20.3220372044385,0 -40.3506880850256,-20.3224346143853,0 -40.3505378813211,-20.3228119013652,0 -40.3503072113457,-20.3233652539367,0 -40.3502750248376,-20.3236519904004,0 -40.3503501266893,-20.323883391369,0 -40.3505164236484,-20.3241600659862,0 -40.3521311134754,-20.3269469063506,0 -40.3523456901971,-20.327183332735,0 -40.3525012583198,-20.3274549711136,0 -40.3527211994589,-20.3278875793987,0 -40.3528714031634,-20.3281491559137,0 -40.3530484289588,-20.3284157622922,0 -40.3533810228769,-20.3289992765334,0 -40.3535634130896,-20.3296079399052,0 -40.3536492437778,-20.3299701186259,0 -40.3537189812123,-20.3303322964983,0 -40.3537994474832,-20.3305888386452,0 -40.3536707014505,-20.3323946821037,0 -40.3530377001224,-20.3322337164125,0 -40.3527587503852,-20.332183414599,0 -40.3526031822625,-20.3322488069528,0 -40.3524583429753,-20.3322689276712,0 -40.3523778767053,-20.3322035353267,0 -40.3522866815981,-20.3321129920338,0 -40.3522866815981,-20.3320123883126,0 -40.3524368853035,-20.331710576757,0 -40.3525012583198,-20.3315194291335,0 -40.3523725122871,-20.3306642921362,0 -40.3529411405979,-20.3306844130616,0 -40.3531986326633,-20.3305335060615,0 -40.3531986326633,-20.3303926593946,0 -40.3531825394097,-20.330281994067,0 -40.3531557173188,-20.3302216311276,0 -40.3530859798852,-20.3301411471719,0 -40.3529947847779,-20.3300707236758,0 -40.3528392166552,-20.3300153909068,0 -40.3527319282952,-20.3299952698943,0 -40.3525709957544,-20.3300053304008,0 -40.3524851650653,-20.3300707236758,0 -40.3523778767053,-20.3301310866742,0 -40.3523027748526,-20.3302316916194,0 -40.3523403257789,-20.3306995037531,0 -40.3533756584587,-20.3306995037531,0 -40.3535473198351,-20.330603929346,0 -40.3536492437778,-20.3304932641697,0 -40.353708252376,-20.3303825989141,0 -40.3538316339914,-20.3302065403886,0 -40.3541105837286,-20.3301461774197,0 -40.3544753641549,-20.3302467823551,0 -40.3547221273839,-20.3304178105943,0 -40.3548562378348,-20.3306391409766,0 -40.3549206108512,-20.3309560452908,0 -40.355081543392,-20.3321632938695,0 -40.3551673740802,-20.3323141992791,0 -40.3553014845311,-20.3324701347144,0 -40.3555911631047,-20.3326160096565,0 -40.3588366360131,-20.3328826083329,0 -40.3589653820458,-20.3327417638066,0 -40.3590726704058,-20.3326612811618,0 -40.3592228741112,-20.3326059493197,0 -40.3593033403812,-20.3325958889832,0 -40.3594696373402,-20.3326612811618,0 -40.3595554680284,-20.3327618844608,0 -40.3595554680284,-20.3328725480136,0 -40.3595125526848,-20.3330284828858,0 -40.3594535440866,-20.3332196286438,0 -40.3586757034722,-20.3341250527064,0 -40.3589171022831,-20.3343463777822,0 -40.358997568554,-20.3344771606318,0 -40.359051212734,-20.3346381239882,0 -40.357956871456,-20.3357849830495,0 -40.356835708088,-20.3348594483295,0 -40.3568410725053,-20.3326763716612,0 -40.3593355268894,-20.3329480003911,0 -40.3596520275529,-20.3329681210185,0 -40.3601026386674,-20.3329178194447,0 -40.3604030460773,-20.3328675178545,0 -40.3612559885444,-20.3325003157482,0 -40.3628223986087,-20.3315898519698,0 -40.3638416380348,-20.3311321029621,0 -40.3645121902883,-20.3310113777232,0 -40.3652256578864,-20.3310566496984,0 -40.3658050150335,-20.3311874353315,0 -40.3662127108034,-20.3313936739892,0 -40.3667169660988,-20.3317357277423,0 -40.3675108999668,-20.3324148028039,0 -40.3688090891302,-20.3335717386313,0 -40.3690022081792,-20.333692461871,0 -40.370091185039,-20.3343111669957,0 -40.3707027286944,-20.3345777627493,0 -40.3715932220878,-20.3348745386135,0 -40.3723549694477,-20.3351511935673,0 -40.3728002161439,-20.3352668854919,0 -40.373406395382,-20.3354328781027,0 -40.3739374727664,-20.3355133593039,0 -40.3746455759463,-20.3355234194514,0 -40.37498999778856,-20.33549672392364,0 -40.37527261415774,-20.33541034983694,0 -40.37551939818665,-20.33524800322388,0 -40.3756980727435,-20.33502714693466,0 -40.37574620184622,-20.33468927061404,0 -40.37561838916394,-20.33423845848225,0 -40.37547071094187,-20.33375697761752,0 -40.37552173624582,-20.33361330497134,0 -40.37564372166161,-20.33357336612427,0 -40.37579978210723,-20.33362919038459,0 -40.37590764924174,-20.33381006428252,0 -40.37622673285158,-20.33450698638601,0 -40.3765730514526,-20.33499468344466,0 -40.37699875200214,-20.33538829539653,0 -40.3773546070512,-20.3356441411672,0 -40.3782343716083,-20.3361974478253,0 -40.3793608993944,-20.3366602118723,0 -40.3800314516488,-20.3370877643808,0 -40.3808307499351,-20.3375957958247,0 -40.3816729635658,-20.3381189155654,0 -40.3821182102621,-20.3383050250465,0 -40.3823596090738,-20.3383804747727,0 -40.3827673048438,-20.3384207146108,0 -40.3833037466464,-20.3384207146108,0 -40.383679255909,-20.3383452649051,0 -40.3839742989008,-20.3382647851775,0 -40.3843980879243,-20.3380887356285,0 -40.3845053762852,-20.3380082557681,0 -40.3853395301917,-20.337555870145,0 
@@ -32584,7 +32648,7 @@
 					<name>4228V</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin3</styleUrl>
+					<styleUrl>#msn_ylw-pushpin26</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.38379072721445,-20.33871300048056,0 -40.38330674755309,-20.33879083413114,0 -40.38292739916611,-20.33881139466121,0 -40.38241721857952,-20.3387706669527,0 -40.3818186100982,-20.33859913380336,0 -40.381260392558,-20.33834581391912,0 -40.38078936938739,-20.33804340489874,0 -40.37965733952468,-20.33736995712641,0 -40.3791732483544,-20.33708799042155,0 -40.37888974485146,-20.33683867275806,0 -40.37845361473365,-20.33654033573685,0 -40.37798261683585,-20.33628698032784,0 -40.37732598085142,-20.33607234798386,0 -40.37636907691567,-20.33582618100523,0 -40.37532567315692,-20.33573651761557,0 -40.37473702372282,-20.33570396684251,0 -40.37372921119457,-20.33570014359743,0 -40.37293124076416,-20.33557360503805,0 -40.37165366620638,-20.33517199394016,0 -40.37029532344463,-20.33468090016415,0 -40.36934613207776,-20.33419459143987,0 -40.3686919791442,-20.33375727178789,0 -40.36766880985744,-20.33284217923832,0 -40.36665264368414,-20.33189795501177,0 -40.36628195502273,-20.33160774864715,0 -40.36585460207127,-20.33139114610215,0 -40.36534877528477,-20.33121953130999,0 -40.36495633843944,-20.3311541936661,0 -40.36428240230025,-20.33119931551964,0 -40.363702524268,-20.33131800095749,0 -40.36320551708623,-20.33156341313259,0 -40.36108035525486,-20.33281117375063,0 -40.36058769230158,-20.33301569326545,0 -40.36004268603748,-20.33311800694785,0 -40.35958049964697,-20.33310173654156,0 -40.35688945197376,-20.33293048155161,0 -40.35504383241662,-20.33275496835716,0 -40.35429820078321,-20.33254656652123,0 -40.35309262781107,-20.33223906575451,0 -40.35281357067195,-20.33221048555959,0 -40.35259120975714,-20.33226775611137,0 -40.35236010721299,-20.33219419433614,0 -40.35230776386692,-20.33206336825072,0 -40.35236440785411,-20.33182213633677,0 -40.35241233388061,-20.33159725922043,0 -40.35236657405748,-20.33078134098446,0 -40.35258021002804,-20.33070771749953,0 -40.35305544863658,-20.33058908224261,0 -40.35323855925201,-20.33048684205954,0 -40.35325597308784,-20.33031920910711,0 -40.35321670682072,-20.33016384996586,0 -40.3528286229816,-20.32997583282715,0 -40.35241878344787,-20.33006583928496,0 -40.3523610266094,-20.3301404723581,0 -40.3523685319823,-20.3303440154554,0 -40.3523829013027,-20.3304844640787,0 -40.352410929565,-20.3305577670014,0 -40.3524961240616,-20.3306249056475,0 -40.352719468176,-20.3306602513949,0 -40.3531884390501,-20.3306518213248,0 -40.3534265547696,-20.3306194144516,0 -40.3535776660985,-20.3305202397809,0 -40.3536293983191,-20.3303946499768,0 -40.3536452538707,-20.330264202389,0 -40.3536205095722,-20.3300472557008,0 -40.3534509957039,-20.3294876339328,0 -40.3533224031279,-20.3291420374312,0 -40.3531506942069,-20.3287780007391,0 -40.353006034759,-20.3285110350596,0 -40.3526887960134,-20.327965189289,0 -40.3525206053789,-20.327741394922,0 -40.3522632292623,-20.3274719932571,0 -40.3521350409758,-20.3272822408745,0 -40.3520919996049,-20.3271522357173,0 -40.3520700128668,-20.3269737291997,0 -40.3520390214013,-20.3268409080963,0 -40.351986388293,-20.3267167298517,0 -40.3518588914893,-20.3265102374315,0 -40.3507049873754,-20.3245411688415,0 -40.3503471133911,-20.3239370814536,0 -40.3502919590765,-20.3238212086615,0 -40.3502671071832,-20.3237116725765,0 -40.3502496368914,-20.3235561292542,0 -40.3502650832219,-20.323396102415,0 -40.3504748841865,-20.3228842929967,0 -40.3506694061518,-20.3224039502909,0 -40.3507700622011,-20.3220967470806,0 -40.3507712755771,-20.3219663861058,0 -40.3507564738667,-20.3218225455823,0 -40.3507087151534,-20.321657294272,0 -40.3505601076783,-20.3214478335985,0 -40.350413954842,-20.321338343855,0 -40.3502869103093,-20.3212640489851,0 -40.3501836662254,-20.3212292184799,0 -40.3500123202641,-20.3211845630718,0 -40.349888099866,-20.3211513706049,0 -40.3495843146174,-20.321177800065,0 -40.3492638374717,-20.3211524068842,0 -40.3488560068725,-20.3211193659006,0 -40.348645013921,-20.3210244692154,0 -40.3483297100777,-20.3209044935115,0 -40.3481684248971,-20.3208700755292,0 -40.3478350763685,-20.3208413906682,0 -40.3475603654596,-20.3208674669615,0 -40.3472954939857,-20.3209348397523,0 -40.3468642221282,-20.3210608564478,0 -40.3463792120891,-20.3211976496018,0 -40.3459860086624,-20.3213142945332,0 -40.3452060087605,-20.3215703954709,0 -40.3448663353258,-20.3216826761068,0 -40.3445680661848,-20.321708227516,0 -40.3443072168048,-20.3217048561525,0 -40.3440311701876,-20.3216587791959,0 -40.3438164130976,-20.3216326047082,0 -40.3435411882191,-20.3216568419621,0 -40.34305234407,-20.3217652565082,0 -40.342704431234,-20.3218562025262,0 -40.3418778331123,-20.3220469819352,0 -40.3413124813753,-20.322151536835,0 -40.340559564448,-20.3221548648657,0 -40.3395803783918,-20.3221472704897,0 -40.3387874737286,-20.3220860623503,0 -40.3381038660117,-20.3219879198828,0 -40.3376390575967,-20.3219066890031,0 -40.3366748879372,-20.3217790806882,0 -40.335770271027,-20.3216613893433,0 -40.3346566387689,-20.3214910229549,0 -40.3334642016738,-20.321348206795,0 -40.3321367162335,-20.3211838602424,0 -40.3306867164167,-20.3209828415742,0 -40.3296616354599,-20.3208451040724,0 -40.3289767506003,-20.3207588678022,0 -40.3285952544562,-20.3207189209065,0 -40.3284018654687,-20.3207155299624,0 -40.3282078963278,-20.3207486704912,0 -40.3276963809179,-20.3209201438768,0 -40.3273110883062,-20.3210571781598,0 -40.3269934819422,-20.3211464940211,0 -40.3266495536577,-20.3212066596909,0 -40.3263490948612,-20.3212298087592,0 -40.3258671942676,-20.3212030029855,0 -40.3256302430536,-20.3211301233291,0 -40.3254152627052,-20.3210138538153,0 -40.3252137753526,-20.3208813362838,0 -40.3250656418433,-20.3207189531232,0 -40.3249313197247,-20.3205433636807,0 -40.3247490458665,-20.3202466696069,0 -40.3245534415448,-20.319941131613,0 -40.3243870220534,-20.3197915037661,0 -40.3239936429997,-20.3194748361303,0 -40.3236036716092,-20.3191824149462,0 -40.3232539114346,-20.318940621804,0 -40.3229419842257,-20.3187777861096,0 -40.3225367521408,-20.3186010811473,0 -40.3220249123379,-20.3183974382471,0 -40.3216298938096,-20.3182873151819,0 -40.3210829969502,-20.3181622026358,0 -40.320604893674,-20.3180786081125,0 -40.3197363591939,-20.3179475770886,0 -40.3186701251789,-20.3177457341848,0 -40.3174544314033,-20.3175622728258,0 -40.3158760840407,-20.3172981355288,0 -40.314300221628,-20.3170436628553,0 -40.3139573847436,-20.316997144815,0 -40.3132487969112,-20.3169505472145,0 -40.3128359265387,-20.3169970324639,0 -40.3123690015578,-20.3171069836401,0 -40.3120867512632,-20.3172234172358,0 -40.3118606643832,-20.3173490022958,0 -40.3114575390741,-20.3176306753169,0 -40.3111620564322,-20.3178794745,0 -40.3108363815454,-20.3180671876229,0 -40.3104991765547,-20.3181995305007,0 -40.3102317193761,-20.3182655953676,0 -40.3095738594623,-20.3183463720636,0 -40.3085487120559,-20.3183649493436,0 -40.3073380842857,-20.3184444769022,0 -40.3069837306531,-20.3184745508832,0 -40.3067648309107,-20.3184598093238,0 -40.306680670591,-20.3184108203301,0 -40.3064695666227,-20.318240653758,0 -40.3062605103675,-20.3179877027598,0 -40.3053393944867,-20.3170899795849,0 -40.3045478971295,-20.3162656675389,0 -40.30407582414,-20.3158368401026,0 -40.3038196854077,-20.3157044566886,0 -40.3035862252447,-20.3156656784685,0 -40.3030256420477,-20.3155979296134,0 -40.3024370202142,-20.3155097308858,0 -40.3021140264534,-20.3154881172251,0 -40.3019052778697,-20.3154968299934,0 -40.3017924433124,-20.3155493612884,0 -40.301649216446,-20.315647963655,0 -40.3014789600817,-20.3157506175246,0 -40.3012053065437,-20.3158769396682,0 -40.2999531697553,-20.31631088472,0 -40.2993766232038,-20.3164732696875,0 -40.2990943530669,-20.3165137666328,0 -40.2987160043772,-20.3165037291328,0 -40.2983854090163,-20.3164221952515,0 -40.2980649957047,-20.3163350102975,0 -40.2977603715968,-20.3162879184066,0 -40.2974451535431,-20.316277388605,0 -40.296529419774,-20.3162894572351,0 -40.2948934928557,-20.3162926992012,0 -40.2935361604601,-20.3163068188986,0 -40.2930717823847,-20.3162743887453,0 -40.2928393722742,-20.3162175041971,0 -40.2923942750734,-20.3160567718112,0 -40.2921502972375,-20.315916555463,0 -40.2917709540648,-20.3155955567985,0 -40.2915725095096,-20.3153356577792,0 -40.2913603218323,-20.3150927892097,0 -40.2908245412674,-20.3144391157094,0 -40.2904404872095,-20.3139781651973,0 -40.2899133467422,-20.3133412835962,0 -40.2896258423849,-20.3129808736902,0 -40.2893819750232,-20.3126133016348,0 -40.2892592681004,-20.3123934211662,0 -40.2891830153365,-20.31215943083,0 -40.2891014415451,-20.3117835505644,0 -40.289115766314,-20.3116487750088,0 -40.2891481061348,-20.3112812740444,0 -40.2891938928584,-20.3110863295726,0 -40.289345520571,-20.3107443536712,0 -40.2894439582148,-20.3105459028993,0 -40.289613117957,-20.310360824006,0 -40.2898846039926,-20.3100082376327,0 -40.2902775181664,-20.3095512400348,0 -40.2906692432887,-20.309069242288,0 -40.2911341597953,-20.3084299109833,0 -40.2913895032662,-20.3079665188158,0 -40.2915553727164,-20.3075803611498,0 -40.2916750758124,-20.3072183245702,0 -40.2917596266285,-20.3068845883688,0 -40.2918299377946,-20.3066139871563,0 -40.2919096829276,-20.3061790801026,0 -40.2919721979243,-20.3057024254147,0 -40.2919607738756,-20.3053108394506,0 -40.2919497998089,-20.3048879200634,0 -40.2918466904394,-20.3042470648886,0 -40.2917443008819,-20.3037109176063,0 -40.2915984460884,-20.3032280624446,0 -40.2915399341401,-20.3029385791419,0 -40.291536815112,-20.3027305737834,0 -40.2915682622806,-20.3024683903069,0 -40.2916380284192,-20.3022262787813,0 -40.2916802087556,-20.3017880927721,0 -40.2916636476681,-20.3015795169483,0 -40.2917125627053,-20.3013336365273,0 -40.2918067291826,-20.3010753013018,0 -40.2920017971436,-20.3004712201503,0 -40.2920761350351,-20.3000927858787,0 -40.2921096331556,-20.2997830545185,0 -40.2920976974841,-20.2994176474392,0 -40.291984095552,-20.2989642167449,0 -40.291823156579,-20.2986296006595,0 -40.2916111518757,-20.2983351494038,0 -40.2915242721578,-20.2981071889566,0 -40.2914754141958,-20.2979040092636,0 -40.2913785742703,-20.2976110223296,0 -40.2913034302568,-20.2974752022144,0 -40.2910972693893,-20.2972046483385,0 -40.2903855303189,-20.2962447378993,0 -40.2899748497616,-20.2957120560978,0 -40.289687212796,-20.2953621970251,0 -40.2895486800507,-20.2951724591731,0 -40.2894442199236,-20.2949842387133,0 -40.2893497923725,-20.2947925013444,0 -40.2892158513197,-20.2944179590154,0 -40.2891058104565,-20.2941179374713,0 -40.2890450479853,-20.2938900411167,0 -40.2890450745656,-20.2937316075927,0 -40.289055738577,-20.2935600638055,0 -40.2890876482155,-20.2934250915938,0 -40.2891688134006,-20.2932475088736,0 -40.2892955615515,-20.2930404890183,0 -40.2895837174672,-20.2925082355237,0 -40.2898532407585,-20.2919922315439,0 -40.2901083586742,-20.2915018044683,0 -40.2901974796026,-20.2912193026072,0 -40.290357206416,-20.2905444799416,0 -40.2906282269804,-20.2893895317875,0 -40.2908025571955,-20.2884863944007,0 -40.2908887719855,-20.287990803656,0 -40.290904886695,-20.2875877423973,0 -40.2908844998797,-20.2871320262702,0 -40.2908283043389,-20.2864381703492,0 -40.2907497099415,-20.2858687325871,0 -40.2906668440567,-20.2855018058428,0 -40.2903873836825,-20.2845802503679,0 -40.2902186115127,-20.2842104518396,0 -40.2898315702713,-20.2835559936317,0 -40.2893354299039,-20.282666915745,0 -40.2887978900832,-20.2817439562149,0 -40.2885975108971,-20.2813958040003,0 -40.2878056102697,-20.2800674474694,0 -40.2875673717258,-20.2796931486891,0 -40.2873027245069,-20.2793780483145,0 -40.2869646227217,-20.2790535445724,0 -40.286302401451,-20.278389751075,0 -40.2859660624181,-20.2780339764729,0 -40.2855074060664,-20.2775693837126,0 -40.2851598734398,-20.2772243988148,0 -40.284630759904,-20.2767858142069,0 -40.2840462196081,-20.2762654091985,0 -40.28211428911035,-20.27482733067459,0 -40.28084099486033,-20.27380734442895,0 -40.28030162203208,-20.27341147952434,0 -40.27920992007525,-20.27247857174394,0 -40.27844961341573,-20.27200077209386,0 -40.2771143954141,-20.2711417663664,0 -40.2763195639481,-20.2706486242671,0 -40.2757908843669,-20.2703323501024,0 -40.2748562044071,-20.2697539342161,0 -40.2745086279728,-20.2695278066993,0 -40.2738382535342,-20.2691303803989,0 -40.2732077926074,-20.2688041993969,0 -40.2722061067197,-20.2682283993198,0 -40.2715037968654,-20.2678555565752,0 -40.2707779509792,-20.2674742949453,0 -40.2701950097027,-20.2671913214013,0 -40.269916368103,-20.2670354593654,0 -40.2692687359388,-20.2667782580691,0 -40.2685301778788,-20.2664837266025,0 -40.2675850740343,-20.2661141220114,0 -40.2668966466511,-20.2658877823451,0 -40.2666046564323,-20.2657848035104,0 -40.2658223547659,-20.2655528835236,0 -40.2651677355998,-20.2653726883408,0 -40.2645860572875,-20.2651875326595,0 -40.2639580330999,-20.2650004262942,0 -40.2636629771689,-20.2648574505346,0 -40.26251610014418,-20.26455389138189,0 -40.26204275788569,-20.26462247283842,0 -40.26147996657453,-20.26472632291767,0 -40.26126953179387,-20.26469507179286,0 -40.26104377544172,-20.26454548348816,0 -40.26100566112457,-20.26431128017113,0 -40.26108529061371,-20.26410154555339,0 -40.2635366365169,-20.2646637794644,0 -40.2635419067934,-20.2644887783575,0 -40.2635940905733,-20.2638413955099,0 -40.2636576304403,-20.2626364795782,0 -40.2637289133887,-20.2610057099885,0 -40.2637842215629,-20.2594520312343,0 -40.2638468352336,-20.2584777282454,0 -40.2638795124155,-20.2575227342416,0 -40.2639186858868,-20.2560225069021,0 -40.2639566229606,-20.2551734820894,0 -40.2639850556687,-20.2546791717605,0 -40.2639405993301,-20.2545051712292,0 -40.2638551150219,-20.2543509285527,0 -40.2636708861357,-20.2541623715744,0 -40.2634897956333,-20.2539832164831,0 -40.2634259561985,-20.2538875763057,0 -40.2633892703828,-20.2537855999657,0 -40.263393034373,-20.2536801953517,0 -40.2634473925896,-20.2535486535991,0 -40.263608165964,-20.2532513784838,0 -40.2639579763676,-20.2525966011016,0 -40.2644033232779,-20.2517340130017,0 -40.2648943570917,-20.2507726280185,0 -40.2653721508115,-20.2498416230504,0 -40.2658679747621,-20.2488687581571,0 -40.2662782787891,-20.248065781578,0 -40.266627772982,-20.2473629261284,0 -40.2671589821735,-20.2463239444721,0 -40.2675939450529,-20.2454146144648,0 -40.2679602527308,-20.2447239209949,0 -40.2684390471523,-20.2438095108213,0 -40.2685188725107,-20.2436306105059,0 -40.2686333776283,-20.2435293742682,0 -40.2690128669419,-20.2432379486774,0 -40.2697853362383,-20.2426325188637,0 -40.2707177915307,-20.2419219824626,0 -40.2713425162452,-20.2414239609391,0 -40.271640374757,-20.2412512383378,0 -40.2726147986265,-20.2407071160669,0 -40.2728635803135,-20.2405818153885,0 -40.2729226836636,-20.2405265382761,0 -40.2729209527891,-20.2404631308935,0 -40.2728449793694,-20.2403740983811,0 -40.2725439778901,-20.2401372708163,0 -40.2718224953119,-20.2395913971,0 -40.271721349847,-20.2394661862675,0 -40.2716365254672,-20.2393000811679,0 -40.2716040497969,-20.2391242180139,0 -40.2716108821338,-20.2389849152337,0 -40.2716539824108,-20.2388420063082,0 -40.2717537698608,-20.2386663871487,0 -40.271985705883,-20.2382825322025,0 -40.2723257574629,-20.2377302124816,0 -40.2724657342831,-20.2374757470174,0 -40.2725262264331,-20.2372928723654,0 -40.2725598274554,-20.237040282074,0 -40.2725296993896,-20.236856244858,0 -40.27246259759,-20.2366588204774,0 -40.2722974405528,-20.23637078886,0 -40.2720842913279,-20.2360505322127,0 -40.2717710810737,-20.2354873685951,0 -40.2716572543393,-20.2352696754307,0 -40.2715602221961,-20.2350151574446,0 -40.2715249205231,-20.2347333836093,0 -40.2714781575652,-20.2342713567304,0 -40.2714399082852,-20.2341000265069,0 -40.2713521755294,-20.2338952518725,0 -40.2710787885203,-20.233476917711,0 -40.2707603636195,-20.2329508708961,0 -40.2704282995558,-20.2324316078014,0 -40.2700848007384,-20.2319312616103,0 -40.2698516830378,-20.2315369881523,0 -40.2698319771851,-20.2314507492936,0 -40.26984592730132,-20.23130834154053,0 -40.26990737457321,-20.2311138074371,0 
@@ -32851,7 +32915,7 @@
 			<Placemark>
 				<name>4216I_V</name>
 				<visibility>0</visibility>
-				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<styleUrl>#msn_ylw-pushpin22</styleUrl>
 				<LineString>
 					<coordinates>
 						-40.26969301278777,-20.23063155025169,0 -40.26964039309731,-20.23087379103836,0 -40.26971635073779,-20.23107883916491,0 -40.26974949863624,-20.23113957565079,0 -40.26974397747173,-20.23119069118225,0 -40.26982311295392,-20.23134877721776,0 -40.26983860987522,-20.23140670999962,0 -40.2700385472277,-20.2312851466914,0 -40.2707519903518,-20.2308988998529,0 -40.2726952432165,-20.2297775717415,0 -40.2728052745529,-20.2297279789496,0 -40.2729350523012,-20.2297546952321,0 -40.2729923584015,-20.2298298503087,0 -40.2737174363092,-20.230900824775,0 -40.2740223907979,-20.2313858618805,0 -40.2741883247851,-20.2316029664535,0 -40.2742821775213,-20.231758640557,0 -40.2744410417521,-20.2319291830894,0 -40.2747154126791,-20.2321164319586,0 -40.2751550274339,-20.2323215030907,0 -40.2753896201229,-20.2324002670309,0 -40.2759075948301,-20.2324209280557,0 -40.2763419100605,-20.2323497434659,0 -40.276807218512,-20.2321811188732,0 -40.277385810476,-20.2318359082611,0 -40.2785125881063,-20.2311031695307,0 -40.2796976709453,-20.2304238916828,0 -40.2808542709726,-20.2297696504063,0 -40.2813660251536,-20.2294671571698,0 -40.2815895608732,-20.2293281305865,0 -40.2817442308828,-20.2292888180649,0 -40.2820046113612,-20.2292607071499,0 -40.2835114596491,-20.2279806779782,0 -40.2845047056749,-20.226937763447,0 -40.2855710175935,-20.2258628009378,0 -40.2865540219775,-20.2248689093743,0 -40.287563194805,-20.2238282920727,0 -40.288633083658,-20.2225668217529,0 -40.28916703178602,-20.22178303534514,0 -40.28947271872605,-20.22087003706632,0 -40.29048115687477,-20.21961139782325,0 -40.29131708365175,-20.21849958748477,0 -40.29215265500694,-20.2173426178998,0 -40.29263378897566,-20.2169428287569,0 -40.29348868764666,-20.21593860691561,0 -40.29448044351011,-20.2145245499431,0 -40.29530178961957,-20.21346106424449,0 -40.29606439620348,-20.21288436053804,0 -40.2978491113819,-20.2105575525137,0 -40.2981760175572,-20.2101678667391,0 -40.2986152331,-20.2097633559448,0 -40.2989188955327,-20.2095781663365,0 -40.2995400005158,-20.2092988519607,0 -40.3020511828458,-20.2086882820114,0 -40.3061822296564,-20.2077616211455,0 -40.3076331578209,-20.2074363320942,0 -40.3089836125787,-20.2072671687663,0 -40.3100320213152,-20.2072371646055,0 -40.310842343035,-20.2072822943404,0 -40.311834400266,-20.2074351761195,0 -40.3129315208885,-20.2077126205619,0 -40.3138665369644,-20.2080545194428,0 -40.3146827342126,-20.2084361314845,0 -40.31526426866844,-20.20870898105369,0 -40.31565614906678,-20.20893862790842,0 -40.3159364407139,-20.20904338393695,0 -40.31613383629757,-20.20899628985752,0 -40.3162630309174,-20.20906574955909,0 -40.31712742125998,-20.20994399376972,0 -40.3178168688284,-20.2105330630234,0 -40.318809458522,-20.2112414951602,0 -40.3212154282321,-20.2130018794049,0 -40.322037288355,-20.2136044612049,0 -40.3230206625808,-20.2143183637342,0 -40.3238773092823,-20.2149148509199,0 -40.324580916528,-20.2154293166465,0 -40.3249905104764,-20.2157042512682,0 -40.3255226818135,-20.2159933601686,0 -40.3263547628465,-20.2163532227362,0 -40.3273206236207,-20.2165913533138,0 -40.3281456062091,-20.2167050249232,0 -40.329266608782,-20.2168819323859,0 -40.3303058887498,-20.2170100992332,0 -40.3314263374796,-20.2172015419536,0 -40.3329479492238,-20.2174380246688,0 -40.33424243384939,-20.21751632558573,0 -40.33508174415934,-20.21750382863912,0 -40.33614993535922,-20.21733515206359,0 -40.33673005928878,-20.21725359837156,0 -40.33726883093988,-20.2172974846434,0 -40.33764971466692,-20.21742884600432,0 -40.33805284576887,-20.21765274655293,0 -40.33850450871905,-20.21792418692852,0 -40.3400601597603,-20.2181263006136,0 -40.3423246491432,-20.2182598992602,0 -40.3441957687387,-20.2183538479514,0 -40.3457889740811,-20.2184375167879,0 -40.3467256022264,-20.2184987735744,0 -40.3472701957937,-20.2185037456347,0 -40.3476227872495,-20.2184770468043,0 -40.3481954006096,-20.2184034149457,0 -40.3489357474605,-20.2182763372989,0 -40.34999708691,-20.2180746625218,0 -40.3510318037684,-20.2178908212871,0 -40.3515553830512,-20.2177797132735,0 -40.3520980060839,-20.2177201462194,0 -40.3527170501949,-20.2177349158305,0 -40.3533066023926,-20.2178541540366,0 -40.3538627890666,-20.218068143431,0 -40.3544791321967,-20.2184651716696,0 -40.3549535733881,-20.2188966236225,0 -40.356194423253,-20.2200885359802,0 -40.3574463482687,-20.221320843296,0 -40.3586675654768,-20.2225128868306,0 -40.3588285817983,-20.2226540705202,0 -40.3590197152637,-20.22285284991,0 -40.3593134004732,-20.2231382067353,0 -40.360814382409,-20.2245792454178,0 -40.3610599136241,-20.2248092368953,0 -40.3612339908603,-20.2249421982486,0 -40.3615531320162,-20.2251656671318,0 -40.3622235268595,-20.2255640303234,0 -40.364145913692,-20.2266151301485,0 -40.3644584841411,-20.2267943625026,0 -40.3650293134335,-20.2272120439085,0 -40.3654302293535,-20.2275453466277,0 -40.3658025168819,-20.227913634893,0 -40.366043202753,-20.2282518700047,0 -40.3664787860891,-20.2289173608348,0 -40.3666435147847,-20.2292023097468,0 -40.3668519349255,-20.2295683254735,0 -40.367192898488,-20.2301873558391,0 -40.3675082104473,-20.2307221530589,0 -40.3677231740842,-20.2311385781032,0 -40.3680245387204,-20.2316642496743,0 -40.3683483005592,-20.2322526594344,0 -40.3686439784229,-20.2328038835009,0 -40.3689951251561,-20.2334180025726,0 -40.3692046612507,-20.2337912730347,0 -40.3693831082831,-20.2341964233376,0 -40.3695063488702,-20.2345118851997,0 -40.3696588198306,-20.2352149256377,0 -40.3698218327615,-20.2364900560964,0 -40.3698803613762,-20.2377289563911,0 -40.3698688739083,-20.2384403157302,0 -40.3697929789439,-20.2392215938173,0 -40.3696982584802,-20.2402726765301,0 -40.3696755020219,-20.2409692596267,0 -40.3697262865498,-20.2417390191831,0 -40.3697720900361,-20.2426423215306,0 -40.3698748452924,-20.2442564016526,0 -40.3700051017199,-20.2464852240327,0 -40.3701329019223,-20.2471225932465,0 -40.37031653373,-20.2475744609223,0 -40.3706474190782,-20.248120836402,0 -40.3710438427178,-20.2487579282124,0 -40.3716608927193,-20.2496520756678,0 -40.3721650448085,-20.2504064426497,0 -40.3726683399021,-20.2511568637375,0 -40.3732392480921,-20.2520837338169,0 -40.3738530534798,-20.2529504250142,0 -40.3745975397403,-20.2541774309847,0 -40.3750602936648,-20.2548930563205,0 -40.3755516992908,-20.2555638551658,0 -40.3758921370686,-20.2559373503866,0 -40.3760426056426,-20.2561016197269,0 -40.3768790325478,-20.25701191783,0 -40.3770341526961,-20.2572538144978,0 -40.3771765006832,-20.2575386074249,0 -40.3773208792416,-20.2579271032013,0 -40.3774918342332,-20.2586305583085,0 -40.3776581673514,-20.2593632503642,0 -40.3779617527149,-20.2601789775569,0 -40.3782370405811,-20.2606719116097,0 -40.3786704809846,-20.2611803273342,0 -40.3792184409489,-20.2617032619635,0 -40.3800398898472,-20.2623643106142,0 -40.3804640435453,-20.2626346401051,0 -40.3808570094543,-20.2628428450907,0 -40.3819388647952,-20.2632750085503,0 -40.3826372078997,-20.2635195920998,0 -40.3830588210479,-20.2636937081299,0 -40.3834387855519,-20.2639000756188,0 -40.3838878985494,-20.2641731971415,0 -40.3844129833045,-20.2645798358049,0 -40.3849833845929,-20.2650865166339,0 -40.3853541709247,-20.2653930974645,0 -40.3857625514121,-20.2657263229781,0 -40.386362132178,-20.2662397274178,0 -40.3869891385566,-20.2667641683737,0 -40.3878280701752,-20.2674389970001,0 -40.3884552427826,-20.2679884943071,0 -40.3893012657641,-20.2687780048167,0 -40.3897512969572,-20.2692856912544,0 -40.390055026906,-20.2697944537922,0 -40.3904787676442,-20.270596899705,0 -40.390898290052,-20.2714196941953,0 -40.3913672338749,-20.2723846913065,0 -40.3919004245973,-20.2734665040979,0 -40.3922492258817,-20.2744355918463,0 -40.3923694807304,-20.2751349272201,0 -40.3924051094621,-20.2753623812463,0 -40.3924709998129,-20.2758083832667,0 -40.3927246486978,-20.2776856719327,0 -40.3929139165375,-20.279034114603,0 -40.3931270943447,-20.2805882062742,0 -40.3932976290136,-20.2819289687986,0 -40.3933141670668,-20.2821900400613,0 -40.3933055277608,-20.2825690748204,0 -40.3932570507111,-20.2829088502004,0 -40.3931310377972,-20.2835087521591,0 -40.3930461221516,-20.2838820408565,0 -40.3929566363078,-20.284267739341,0 -40.3928725068445,-20.2847196782947,0 -40.3927914836432,-20.2850775880606,0 -40.3927190000308,-20.2854167036374,0 -40.3926544043329,-20.2856845571158,0 -40.392551481913,-20.2861275987491,0 -40.3924466111164,-20.2866016193057,0 -40.3923470347587,-20.2870875484185,0 -40.3922244615142,-20.2876888422907,0 -40.3920147638733,-20.2887208475489,0 -40.391896290159,-20.2892206263961,0 -40.3917712995213,-20.2898538206109,0 -40.3917396755927,-20.2900783313615,0 -40.3917215164283,-20.2903504905245,0 -40.3917334112377,-20.290623182324,0 -40.3917716837555,-20.2909406252383,0 -40.3918491062843,-20.2912392877236,0 -40.3919441875569,-20.2915019075448,0 -40.3921150477236,-20.291933852628,0 -40.3922802502546,-20.2923049524744,0 -40.3923904756373,-20.2925617638006,0 -40.3925153374637,-20.2928405026354,0 -40.3926602550955,-20.293149025715,0 -40.3928419126946,-20.2935573717297,0 -40.3932290080103,-20.2944551263181,0 -40.3937335540336,-20.295604425911,0 -40.393863638064,-20.2958819890529,0 -40.3940626916994,-20.2963554981797,0 -40.3944275172081,-20.2972180812855,0 -40.3948419638589,-20.2980828332387,0 -40.3950032221071,-20.2984878066646,0 -40.3951390453342,-20.2989303374959,0 -40.3952487480258,-20.2994631306605,0 -40.3953149201172,-20.2999485562535,0 -40.3953468765974,-20.3005137583702,0 -40.395386331349,-20.3023038394058,0 -40.3953776056751,-20.3030957877081,0 -40.3953376129448,-20.3037758514613,0 -40.3952763823379,-20.3044402813034,0 -40.3951766125443,-20.3055645377628,0 -40.3949893545739,-20.3068089971315,0 -40.3948813661776,-20.3080953674854,0 -40.3948805992594,-20.3088397198794,0 -40.3949415577384,-20.3095349995981,0 -40.3950677450489,-20.3103987871875,0 -40.3952732741081,-20.3114117577655,0 -40.3953950752164,-20.3118535676577,0 -40.3954910760787,-20.3122563577999,0 -40.3955864024305,-20.3130704265271,0 -40.39574647601397,-20.31411560699473,0 -40.39601585453108,-20.31541715384813,0 -40.39615657259544,-20.31644889090619,0 -40.39632878794014,-20.31762507500677,0 -40.3963651013913,-20.31810425385104,0 -40.396336649453,-20.31836757576181,0 -40.39640209280631,-20.31889445713998,0 -40.39652234624355,-20.31937361587973,0 -40.3965295586134,-20.31969970748888,0 -40.39647199324995,-20.320154468838,0 -40.39633642481769,-20.32060462093832,0 -40.39608517744368,-20.32112733473019,0 -40.39597678085022,-20.32144111982247,0 -40.39580220262938,-20.32162680968366,0 -40.395559041449,-20.3218750511193,0 -40.3952829727573,-20.3223354128742,0 -40.3951756160202,-20.3225607498539,0 -40.3951328263647,-20.322776092196,0 -40.3951222305181,-20.3230251272279,0 -40.3951259223211,-20.3234682551378,0 -40.3951891314515,-20.3236940845788,0 -40.3952616126489,-20.3238604199957,0 -40.395699524874,-20.324645936591,0 -40.3957031870675,-20.324657785155,0 -40.3957066205383,-20.3246672127691,0 -40.3957077533453,-20.3246792824501,0 -40.396158260069,-20.3253523065293,0 -40.3967204817837,-20.3262161084754,0 -40.3975411630053,-20.3274843225792,0 -40.39834405900069,-20.3286871580845,0 -40.3986958380024,-20.32920672657062,0 -40.39933637550301,-20.33041377135352,0 -40.40006065433307,-20.33180446390596,0 -40.40056341429632,-20.33282487935939,0 -40.40138114090864,-20.33429585725508,0 -40.40209709749175,-20.33583627660675,0 -40.40268277925038,-20.33686692530966,0 -40.40310982979946,-20.33777104673975,0 -40.40342784109426,-20.33837282404423,0 -40.40376197532119,-20.33892694158172,0 -40.40414215244331,-20.3396621557403,0 -40.40444932586837,-20.34021081921379,0 -40.40474266449502,-20.34066355578887,0 -40.40498178885108,-20.34101770059309,0 -40.40562196911301,-20.34146237463941,0 -40.40595025004515,-20.34170250591331,0 -40.40615413678427,-20.34189876220756,0 -40.40627579373114,-20.34208878779198,0 -40.40633379598167,-20.34235059656087,0 -40.40633344261838,-20.3425893537556,0 -40.40642433015504,-20.34290881302459,0 -40.40656991762111,-20.34310975406408,0 -40.40700073043634,-20.34344163906118,0 -40.40747831582782,-20.34356304262124,0 -40.40758847435793,-20.34361036566803,0 -40.40756959885597,-20.34377144070215,0 -40.40752010485108,-20.34383616038241,0 -40.40730458915065,-20.34392645786187,0 -40.40636865661686,-20.34362957962146,0 -40.40609722798532,-20.34365273401451,0 -40.40521618190007,-20.34349602926034,0 -40.4043739789976,-20.34334163013655,0 -40.40377656398473,-20.3432621034253,0 -40.40359130365917,-20.34321097592444,0 -40.40302194215536,-20.34313264944296,0 -40.39916424859225,-20.34241418292172,0 -40.3984226472453,-20.34222869236767,0 -40.39734263720166,-20.34190974976088,0 -40.39623868918637,-20.34147622276746,0 -40.39526807460464,-20.34095734374528,0 -40.39460922321051,-20.34048699754693,0 -40.39279114153076,-20.33907677460177,0 -40.39056793706429,-20.33736045232881,0 -40.38977020398855,-20.33686071872685,0 -40.38926830237686,-20.33667179951121,0 -40.38889870549564,-20.3366351540725,0 -40.3884172566054,-20.33663529289475,0 -40.38773018090808,-20.3367450585451,0 -40.38703850261088,-20.33706957907386,0 -40.38508294563459,-20.33813711672931,0 -40.38441340413612,-20.33848853759572,0 -40.3838363982347,-20.33871772724368,0 
@@ -32861,7 +32925,7 @@
 			<Placemark>
 				<name>4216V_V</name>
 				<visibility>0</visibility>
-				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
 				<LineString>
 					<tessellate>1</tessellate>
 					<coordinates>
@@ -33376,7 +33440,7 @@
 				<Placemark>
 					<name>505V_U</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin26</styleUrl>
+					<styleUrl>#msn_ylw-pushpin260</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.37199783775872,-20.32529735623179,0 -40.37192143559294,-20.32598066303844,0 -40.37195692176893,-20.3260287978676,0 -40.371921090888,-20.3261768328717,0 -40.3719211544496,-20.3263948393166,0 -40.3719942418131,-20.3268489570828,0 -40.3721514571031,-20.3276904494839,0 -40.3723303858891,-20.3286981529584,0 -40.3724116158931,-20.3289874300004,0 -40.3725074721203,-20.3292333536709,0 -40.3730476356867,-20.3301521254265,0 -40.3733272655944,-20.3306262261193,0 -40.3735581842066,-20.3309683938641,0 -40.373710115873,-20.331138255533,0 -40.3740967941941,-20.3314784859407,0 -40.3743583244074,-20.3316647144762,0 -40.3746546565177,-20.3318898635774,0 -40.3749826960601,-20.3322246876196,0 -40.3751466185237,-20.3324520226645,0 -40.3752693436564,-20.3327214728904,0 -40.3754184507125,-20.3330287680597,0 -40.3754878495664,-20.3332041385122,0 -40.3755783073157,-20.3333237815798,0 -40.3756956998294,-20.3334389103252,0 -40.3758397261094,-20.3335962168807,0 -40.3759858852797,-20.3338667759232,0 -40.3761991723909,-20.3344559668718,0 -40.37637661690222,-20.33473256168221,0 -40.37653691369488,-20.33491948912234,0 -40.37678840353425,-20.33519507021272,0 -40.37702495504559,-20.33540273809763,0 -40.37736487220909,-20.33564204950837,0 -40.37818042430833,-20.33611331106977,0 -40.37893194528204,-20.3365049489122,0 -40.37979167418837,-20.33695461553578,0 -40.3817967934166,-20.3381897110488,0 -40.38220802480227,-20.33833937685872,0 -40.38291836707955,-20.33846096269184,0 -40.38334017717358,-20.33843683170494,0 -40.38411736619376,-20.33820681169376,0 -40.38576416900973,-20.33733126204161,0 -40.3858706805426,-20.33731324166436,0 -40.38601258139853,-20.33736512296216,0 -40.38606802107162,-20.33747496840156,0 -40.38604251301746,-20.33760082655435,0 -40.38565912744125,-20.33779274645114,0 -40.38444912590981,-20.33847934896946,0 -40.38400181721054,-20.33866130320148,0 -40.38333045920311,-20.33880577625672,0 -40.38299812544402,-20.33883786438518,0 -40.38252842749902,-20.33879409352808,0 -40.38195741693004,-20.33865847127776,0 -40.38123330220496,-20.33832197715082,0 -40.38071548107086,-20.33801653463737,0 -40.37961294154829,-20.33733955333249,0 -40.37918885794531,-20.337014095756,0 -40.37870177216437,-20.33666178233108,0 -40.37824150032084,-20.3363982612643,0 -40.37742833106581,-20.33608952101439,0 -40.37706612106201,-20.33598377293734,0 -40.37630648280783,-20.3358304432931,0 -40.37609130200287,-20.3358005525015,0 -40.3757348763193,-20.3357679165367,0 -40.3749493733811,-20.335740374813,0 -40.3744083866867,-20.3357112115169,0 -40.3736414096706,-20.3356940383844,0 -40.3734121582389,-20.3357197354444,0 -40.3730659024163,-20.3356492654031,0 -40.3727510861718,-20.3355717962982,0 -40.3721880093626,-20.3354044321462,0 -40.3718307094252,-20.3352769016778,0 -40.3708973756306,-20.334939902429,0 -40.3702230432898,-20.3346517751114,0 -40.3698199552131,-20.3344300862146,0 -40.3694061816843,-20.334198835036,0 -40.3690102617301,-20.3339325830736,0 -40.3687100871602,-20.333687316776,0 -40.3679958137225,-20.3330616281182,0 -40.3673483575057,-20.3324798350053,0 -40.3667424564758,-20.3319447507671,0 -40.366507921812,-20.3317546765619,0 -40.3661813013477,-20.3315501805992,0 -40.3657378497351,-20.331326850133,0 -40.3654009586095,-20.3312351832682,0 -40.3650153138459,-20.3311515312985,0 -40.3645624192718,-20.3311466909867,0 -40.3642212792472,-20.3311794089466,0 -40.3637808484995,-20.3312825856999,0 -40.3634112559376,-20.3314663272567,0 -40.3628463595,-20.3317677286781,0 -40.3620807117992,-20.3322418070437,0 -40.361186951978,-20.3327750012617,0 -40.3605395627421,-20.3330742980648,0 -40.3602338598038,-20.3331183187149,0 -40.35613199516115,-20.3328776607013,0 -40.35546447409264,-20.33282315217326,0 -40.35495720035504,-20.33269106439919,0 -40.35459790273703,-20.33213899709086,0 -40.35471217751404,-20.329325844764,0 -40.3546938021273,-20.32535463055661,0 -40.35418676491682,-20.3231463663812,0 -40.35327459640001,-20.32105687503471,0 -40.35274265318643,-20.32029911530836,0 -40.3524767244846,-20.3201329454283,0 -40.35216018450155,-20.32009739093265,0 -40.35157781778773,-20.32029935463451,0 -40.35005780700288,-20.32114214350184,0 -40.3495843146174,-20.321177800065,0 -40.3492638374717,-20.3211524068842,0 -40.3488560068725,-20.3211193659006,0 -40.348645013921,-20.3210244692154,0 -40.3483297100777,-20.3209044935115,0 -40.3481684248971,-20.3208700755292,0 -40.3478350763685,-20.3208413906682,0 -40.3475603654596,-20.3208674669615,0 -40.3472954939857,-20.3209348397523,0 -40.3468642221282,-20.3210608564478,0 -40.3463792120891,-20.3211976496018,0 -40.3459860086624,-20.3213142945332,0 -40.3452060087605,-20.3215703954709,0 -40.3448663353258,-20.3216826761068,0 -40.3445680661848,-20.321708227516,0 -40.3443072168048,-20.3217048561525,0 -40.3440311701876,-20.3216587791959,0 -40.3438164130976,-20.3216326047082,0 -40.3435411882191,-20.3216568419621,0 -40.34305234407,-20.3217652565082,0 -40.342704431234,-20.3218562025262,0 -40.3418778331123,-20.3220469819352,0 -40.3413124813753,-20.322151536835,0 -40.340559564448,-20.3221548648657,0 -40.3395803783918,-20.3221472704897,0 -40.3387874737286,-20.3220860623503,0 -40.3381038660117,-20.3219879198828,0 -40.3376390575967,-20.3219066890031,0 -40.3366748879372,-20.3217790806882,0 -40.335770271027,-20.3216613893433,0 -40.3346566387689,-20.3214910229549,0 -40.3334642016738,-20.321348206795,0 -40.3321367162335,-20.3211838602424,0 -40.3306867164167,-20.3209828415742,0 -40.3296616354599,-20.3208451040724,0 -40.3289767506003,-20.3207588678022,0 -40.3285952544562,-20.3207189209065,0 -40.3284018654687,-20.3207155299624,0 -40.3282078963278,-20.3207486704912,0 -40.3276963809179,-20.3209201438768,0 -40.3273110883062,-20.3210571781598,0 -40.3269934819422,-20.3211464940211,0 -40.3266495536577,-20.3212066596909,0 -40.3263490948612,-20.3212298087592,0 -40.3258671942676,-20.3212030029855,0 -40.3256302430536,-20.3211301233291,0 -40.3254152627052,-20.3210138538153,0 -40.3252137753526,-20.3208813362838,0 -40.3250656418433,-20.3207189531232,0 -40.3249313197247,-20.3205433636807,0 -40.3247490458665,-20.3202466696069,0 -40.3245534415448,-20.319941131613,0 -40.3243870220534,-20.3197915037661,0 -40.3239936429997,-20.3194748361303,0 -40.3236036716092,-20.3191824149462,0 -40.3232539114346,-20.318940621804,0 -40.3229419842257,-20.3187777861096,0 -40.3225367521408,-20.3186010811473,0 -40.3220249123379,-20.3183974382471,0 -40.3216298938096,-20.3182873151819,0 -40.3210829969502,-20.3181622026358,0 -40.320604893674,-20.3180786081125,0 -40.3197363591939,-20.3179475770886,0 -40.3186701251789,-20.3177457341848,0 -40.3174544314033,-20.3175622728258,0 -40.3158760840407,-20.3172981355288,0 -40.314300221628,-20.3170436628553,0 -40.3139573847436,-20.316997144815,0 -40.3132487969112,-20.3169505472145,0 -40.3128359265387,-20.3169970324639,0 -40.3123690015578,-20.3171069836401,0 -40.3120867512632,-20.3172234172358,0 -40.3118606643832,-20.3173490022958,0 -40.3114575390741,-20.3176306753169,0 -40.3111620564322,-20.3178794745,0 -40.3108363815454,-20.3180671876229,0 -40.3104991765547,-20.3181995305007,0 -40.3102317193761,-20.3182655953676,0 -40.3095738594623,-20.3183463720636,0 -40.3085487120559,-20.3183649493436,0 -40.3073380842857,-20.3184444769022,0 -40.3069837306531,-20.3184745508832,0 -40.3067648309107,-20.3184598093238,0 -40.306680670591,-20.3184108203301,0 -40.3064695666227,-20.318240653758,0 -40.3062605103675,-20.3179877027598,0 -40.3053393944867,-20.3170899795849,0 -40.3045478971295,-20.3162656675389,0 -40.30407582414,-20.3158368401026,0 -40.3038196854077,-20.3157044566886,0 -40.3035862252447,-20.3156656784685,0 -40.3030256420477,-20.3155979296134,0 -40.3024370202142,-20.3155097308858,0 -40.3021140264534,-20.3154881172251,0 -40.3019052778697,-20.3154968299934,0 -40.3017924433124,-20.3155493612884,0 -40.301649216446,-20.315647963655,0 -40.3014789600817,-20.3157506175246,0 -40.3012053065437,-20.3158769396682,0 -40.2999531697553,-20.31631088472,0 -40.2993766232038,-20.3164732696875,0 -40.2990943530669,-20.3165137666328,0 -40.2987160043772,-20.3165037291328,0 -40.2983854090163,-20.3164221952515,0 -40.2980649957047,-20.3163350102975,0 -40.2977603715968,-20.3162879184066,0 -40.2974451535431,-20.316277388605,0 -40.296529419774,-20.3162894572351,0 -40.2948934928557,-20.3162926992012,0 -40.2935361604601,-20.3163068188986,0 -40.2930717823847,-20.3162743887453,0 -40.2928393722742,-20.3162175041971,0 -40.2923942750734,-20.3160567718112,0 -40.2921502972375,-20.315916555463,0 -40.2917709540648,-20.3155955567985,0 -40.2915725095096,-20.3153356577792,0 -40.2913603218323,-20.3150927892097,0 -40.2908245412674,-20.3144391157094,0 -40.2904404872095,-20.3139781651973,0 -40.2899133467422,-20.3133412835962,0 -40.2896258423849,-20.3129808736902,0 -40.2893819750232,-20.3126133016348,0 -40.2892592681004,-20.3123934211662,0 -40.2891830153365,-20.31215943083,0 -40.2891014415451,-20.3117835505644,0 -40.289115766314,-20.3116487750088,0 -40.2891481061348,-20.3112812740444,0 -40.2891938928584,-20.3110863295726,0 -40.289345520571,-20.3107443536712,0 -40.2894439582148,-20.3105459028993,0 -40.289613117957,-20.310360824006,0 -40.2898846039926,-20.3100082376327,0 -40.2902775181664,-20.3095512400348,0 -40.2906692432887,-20.309069242288,0 -40.2911341597953,-20.3084299109833,0 -40.2913895032662,-20.3079665188158,0 -40.2915553727164,-20.3075803611498,0 -40.2916750758124,-20.3072183245702,0 -40.2917596266285,-20.3068845883688,0 -40.2918299377946,-20.3066139871563,0 -40.2919096829276,-20.3061790801026,0 -40.2919721979243,-20.3057024254147,0 -40.2919607738756,-20.3053108394506,0 -40.2919497998089,-20.3048879200634,0 -40.2918466904394,-20.3042470648886,0 -40.2917443008819,-20.3037109176063,0 -40.2915984460884,-20.3032280624446,0 -40.2915399341401,-20.3029385791419,0 -40.291536815112,-20.3027305737834,0 -40.2915682622806,-20.3024683903069,0 -40.2916380284192,-20.3022262787813,0 -40.2916802087556,-20.3017880927721,0 -40.2916636476681,-20.3015795169483,0 -40.2917125627053,-20.3013336365273,0 -40.2918067291826,-20.3010753013018,0 -40.2920017971436,-20.3004712201503,0 -40.2920761350351,-20.3000927858787,0 -40.2921096331556,-20.2997830545185,0 -40.2920976974841,-20.2994176474392,0 -40.291984095552,-20.2989642167449,0 -40.291823156579,-20.2986296006595,0 -40.2916111518757,-20.2983351494038,0 -40.2915242721578,-20.2981071889566,0 -40.2914754141958,-20.2979040092636,0 -40.2913785742703,-20.2976110223296,0 -40.2913034302568,-20.2974752022144,0 -40.2910972693893,-20.2972046483385,0 -40.2903855303189,-20.2962447378993,0 -40.2899748497616,-20.2957120560978,0 -40.289687212796,-20.2953621970251,0 -40.2895486800507,-20.2951724591731,0 -40.2894442199236,-20.2949842387133,0 -40.2893497923725,-20.2947925013444,0 -40.2892158513197,-20.2944179590154,0 -40.2891058104565,-20.2941179374713,0 -40.2890450479853,-20.2938900411167,0 -40.2890450745656,-20.2937316075927,0 -40.289055738577,-20.2935600638055,0 -40.2890876482155,-20.2934250915938,0 -40.2891688134006,-20.2932475088736,0 -40.2892955615515,-20.2930404890183,0 -40.2895837174672,-20.2925082355237,0 -40.2898532407585,-20.2919922315439,0 -40.2901083586742,-20.2915018044683,0 -40.2901974796026,-20.2912193026072,0 -40.290357206416,-20.2905444799416,0 -40.2906282269804,-20.2893895317875,0 -40.2908025571955,-20.2884863944007,0 -40.2908887719855,-20.287990803656,0 -40.290904886695,-20.2875877423973,0 -40.2908844998797,-20.2871320262702,0 -40.2908283043389,-20.2864381703492,0 -40.2907497099415,-20.2858687325871,0 -40.2906668440567,-20.2855018058428,0 -40.2903873836825,-20.2845802503679,0 -40.2902186115127,-20.2842104518396,0 -40.2898315702713,-20.2835559936317,0 -40.2893354299039,-20.282666915745,0 -40.2887978900832,-20.2817439562149,0 -40.2885975108971,-20.2813958040003,0 -40.2878056102697,-20.2800674474694,0 -40.2875673717258,-20.2796931486891,0 -40.2873027245069,-20.2793780483145,0 -40.2869646227217,-20.2790535445724,0 -40.286302401451,-20.278389751075,0 -40.2859660624181,-20.2780339764729,0 -40.2855074060664,-20.2775693837126,0 -40.2851598734398,-20.2772243988148,0 -40.284630759904,-20.2767858142069,0 -40.2840462196081,-20.2762654091985,0 -40.2831024295623,-20.2755559150564,0 -40.2821855796617,-20.2747334807905,0 -40.2816359628782,-20.2742707418117,0 -40.2809198582161,-20.2737212821643,0 -40.2803216047269,-20.2732450253072,0 -40.2791965158564,-20.2724342409599,0 -40.2786842924203,-20.2720972240803,0 -40.2779300032459,-20.2716245092765,0 -40.2771143954141,-20.2711417663664,0 -40.2763195639481,-20.2706486242671,0 -40.2757908843669,-20.2703323501024,0 -40.2748562044071,-20.2697539342161,0 -40.2745086279728,-20.2695278066993,0 -40.2738382535342,-20.2691303803989,0 -40.2732077926074,-20.2688041993969,0 -40.2722061067197,-20.2682283993198,0 -40.2715037968654,-20.2678555565752,0 -40.2707779509792,-20.2674742949453,0 -40.2701950097027,-20.2671913214013,0 -40.269916368103,-20.2670354593654,0 -40.2692687359388,-20.2667782580691,0 -40.2685301778788,-20.2664837266025,0 -40.2675850740343,-20.2661141220114,0 -40.2670217114652,-20.2659201794299,0 -40.2669624907362,-20.2658088029115,0 -40.2669440855227,-20.2656071223015,0 -40.2669961255539,-20.264734412967,0 -40.2670296394812,-20.2640928511998,0 -40.2670809469403,-20.2630920080931,0 -40.2671214770297,-20.2619952359706,0 -40.267181930137,-20.2610065124437,0 -40.2672604634845,-20.2596001631942,0 -40.2673266476566,-20.2583817461582,0 -40.2673606343422,-20.257386963147,0 -40.2673531410464,-20.2572903621871,0 -40.2673089067047,-20.2572625937635,0 -40.2671688322838,-20.2572619884319,0 -40.2670692043274,-20.2572995247381,0 -40.2668954762958,-20.2574269567037,0 -40.2665188372132,-20.2577430827615,0 -40.2650590428522,-20.2589738152383,0 -40.2641183618278,-20.2597914034827,0 -40.2639819157261,-20.2598672396772,0 -40.2639265673358,-20.2598637659517,0 -40.2638158815937,-20.2597911931652,0 -40.2637899908464,-20.2596978976567,0 -40.2637826408765,-20.2595977071679,0 -40.2637842215629,-20.2594520312343,0 -40.2638468352336,-20.2584777282454,0 -40.2638795124155,-20.2575227342416,0 -40.2639186858868,-20.2560225069021,0 -40.2639566229606,-20.2551734820894,0 -40.2639850556687,-20.2546791717605,0 -40.2639405993301,-20.2545051712292,0 -40.2638551150219,-20.2543509285527,0 -40.2636708861357,-20.2541623715744,0 -40.2634897956333,-20.2539832164831,0 -40.2634259561985,-20.2538875763057,0 -40.2633892703828,-20.2537855999657,0 -40.263393034373,-20.2536801953517,0 -40.2634473925896,-20.2535486535991,0 -40.263608165964,-20.2532513784838,0 -40.2639579763676,-20.2525966011016,0 -40.2644033232779,-20.2517340130017,0 -40.2648943570917,-20.2507726280185,0 -40.2653721508115,-20.2498416230504,0 -40.2658679747621,-20.2488687581571,0 -40.2662782787891,-20.248065781578,0 -40.266627772982,-20.2473629261284,0 -40.2671589821735,-20.2463239444721,0 -40.2675939450529,-20.2454146144648,0 -40.2679602527308,-20.2447239209949,0 -40.2684390471523,-20.2438095108213,0 -40.2685188725107,-20.2436306105059,0 -40.2686333776283,-20.2435293742682,0 -40.2690128669419,-20.2432379486774,0 -40.2697853362383,-20.2426325188637,0 -40.2707177915307,-20.2419219824626,0 -40.2713425162452,-20.2414239609391,0 -40.271640374757,-20.2412512383378,0 -40.2726147986265,-20.2407071160669,0 -40.2728635803135,-20.2405818153885,0 -40.27310201096877,-20.2403745470223,0 -40.27351949329137,-20.23983062084013,0 -40.27372707517309,-20.23963509817768,0 -40.27402249723161,-20.2394399904526,0 -40.27439087206284,-20.23925553179339,0 -40.27476556337174,-20.2391064493694,0 -40.2750821063774,-20.23904351486289,0 -40.27555804437824,-20.23900413628555,0 -40.27595164148642,-20.23897805240457,0 -40.27623135220533,-20.23886797148315,0 -40.27648144675801,-20.23867508090369,0 -40.27668788963054,-20.23836988458307,0 -40.27689047937515,-20.23805023844421,0 -40.27700042885079,-20.23771992243897,0 -40.27719689599427,-20.23696655407505,0 -40.27313688152713,-20.23078018278973,0 -40.27040805459822,-20.2323979378231,0 -40.2699329074529,-20.2316712659321,0 -40.2698385395334,-20.2314998481543,0 -40.2698473785559,-20.2314096447269,0 -40.27029328348175,-20.23118010763412,0 -40.2703274267002,-20.2310803410178,0 -40.2703594606725,-20.2309850539377,0 -40.27047380379727,-20.23053858570233,0 -40.27056652265908,-20.23044785213675,0 -40.27057658461484,-20.23043254227181,0 -40.27063994957746,-20.23046841854051,0 -40.2708462465401,-20.2307756333069,0 -40.2708839276432,-20.2308006413726,0 -40.2709627655271,-20.2307736247186,0 -40.2710721052897,-20.2307146494106,0 -40.2724524826926,-20.2299128912157,0 -40.2724635763397,-20.2298763134816,0 -40.2724783569698,-20.2298066414677,0 -40.2724078331957,-20.2296721588069,0 -40.2720416976301,-20.2291427913916,0 -40.2716196284477,-20.2284893742348,0 -40.2711962301199,-20.227839854744,0 -40.2709579555431,-20.2274489993564,0 -40.2708060643593,-20.2271494147645,0 -40.2706221384006,-20.2267045081507,0 -40.2704614353196,-20.2262176110016,0 -40.2703186610747,-20.2255542508174,0 -40.2702159390434,-20.2249131994234,0 -40.270162595598,-20.2242423741591,0 -40.2700826336994,-20.2231092618042,0 -40.270002454611,-20.221600794877,0 -40.2699041853704,-20.2200077414731,0 -40.2698062213562,-20.218671411999,0 -40.2697298042433,-20.2175138640038,0 -40.2696857300603,-20.2169753817777,0 -40.269682825621,-20.2164285635557,0 -40.2697121825538,-20.2161696614851,0 -40.269728865812,-20.2159724291938,0 -40.269716805667,-20.2154660844527,0 -40.2696587700515,-20.2147754748089,0 -40.2695989333738,-20.2135793252751,0 -40.2694895395466,-20.2120931648929,0 -40.2693868503243,-20.2104015479627,0 -40.2692613038752,-20.2085359992569,0 -40.2692168054514,-20.2075332552291,0 -40.2691153780587,-20.2059350684184,0 -40.2690527401195,-20.2047790569059,0 -40.2689524735492,-20.2031774148975,0 -40.26888982837931,-20.20237290473044,0 -40.26878909169022,-20.20224681195642,0 -40.2686597257229,-20.20219494347476,0 -40.26810744843382,-20.20222432345121,0 -40.26709094215615,-20.20226705566944,0 -40.26691565998977,-20.20228828848944,0 -40.26628979093025,-20.20268786269871,0 -40.26614571435725,-20.20267851379251,0 -40.26606941477389,-20.20261378432251,0 -40.26511679591273,-20.20116077086523,0 -40.26502581405988,-20.20098096747166,0 -40.26502228882623,-20.2007144556293,0 -40.2649290015264,-20.19757954186929,0 -40.2627356416882,-20.19793999176239,0 -40.2625710678399,-20.1942328487073,0 -40.26252252757541,-20.19412125754626,0 -40.2622010668587,-20.1941036335704,0 -40.2606285951442,-20.1942155036708,0 -40.2589674657279,-20.1943213819424,0 -40.2573157330304,-20.1944368665695,0 -40.2568487485261,-20.1944726285395,0 -40.2565927811144,-20.1945550518813,0 -40.2563790686172,-20.1946717831869,0 -40.2562178100052,-20.1947764337871,0 -40.2560132919915,-20.1949940707085,0 -40.2558739111631,-20.1952043222864,0 -40.2555837998509,-20.1957207736764,0 -40.2554265943657,-20.1960119352578,0 -40.2553494036639,-20.1962894276165,0 -40.2552800922004,-20.196433285162,0 -40.2552008296589,-20.1964730325187,0 -40.255042145019,-20.1964974173952,0 -40.2549429737383,-20.1964665570158,0 -40.2547147270609,-20.1963307294818,0 -40.2544046869467,-20.1960743558251,0 -40.2543254169219,-20.195919858413,0 -40.254282490755,-20.1957436991341,0 -40.2542613017792,-20.1955234281724,0 -40.254237772653,-20.1945861989784,0 -40.25426249297696,-20.1944097355069,0 -40.25468306936559,-20.19414049542128,0 -40.25518628102267,-20.19408753488349,0 -40.2560798501552,-20.19397907564007,0 -40.25619723660783,-20.19391074850461,0 -40.25624988381216,-20.19381201448219,0 -40.25617708090446,-20.19370184405689,0 -40.25592616834921,-20.1937131542718,0 
@@ -33610,7 +33674,7 @@
 				<Placemark>
 					<name>514I</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin22</styleUrl>
+					<styleUrl>#msn_ylw-pushpin223</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.31549128198805,-20.34630551993157,0 -40.31575139129964,-20.3464831102718,0 -40.31587923986623,-20.3465657077378,0 -40.31601189455727,-20.34653908213126,0 -40.31608411761133,-20.34642306301745,0 -40.31605765094562,-20.34637141905738,0 -40.31519134799152,-20.34576223229009,0 -40.31428447661686,-20.34515323133933,0 -40.31428225348897,-20.34510777648656,0 -40.3146280104093,-20.34460969919272,0 -40.31470731626565,-20.3445518163077,0 -40.3148386450521,-20.34453110455188,0 -40.31503040251714,-20.34462607565715,0 -40.3158479341894,-20.34518774030114,0 -40.31602868552491,-20.34530750834193,0 -40.31689386564999,-20.3459100337421,0 -40.3178312506184,-20.346545975881,0 -40.3185791629607,-20.3470681551412,0 -40.3206390856284,-20.3485330196396,0 -40.3217184478109,-20.349280874311,0 -40.3226173829294,-20.349901609555,0 -40.3236728790013,-20.3506671542115,0 -40.3242931579242,-20.3510672986399,0 -40.3246971501888,-20.3512953919558,0 -40.3251292150209,-20.3514988110536,0 -40.3258808722147,-20.3518397780805,0 -40.3269259084947,-20.3521848882537,0 -40.3280285754035,-20.3525308374976,0 -40.3296117138908,-20.3530615395001,0 -40.3308874567614,-20.3534412263127,0 -40.3320127594624,-20.3537962902204,0 -40.333604761934,-20.35426292532,0 -40.3349178098732,-20.3546654522996,0 -40.3364246979725,-20.3551647153153,0 -40.3367985029445,-20.3552996773824,0 -40.3372479635342,-20.3553556244479,0 -40.3378765051245,-20.3553852257411,0 -40.3385506962996,-20.3553423963641,0 -40.3390153463136,-20.3552793911098,0 -40.339512861704,-20.355154467277,0 -40.3398557812291,-20.355020527468,0 -40.3401847670964,-20.3548706408519,0 -40.3407748753115,-20.3545541479245,0 -40.3412110899981,-20.3542606111282,0 -40.3421947264818,-20.3536524851364,0 -40.3436226620077,-20.3527746910969,0 -40.3445928904544,-20.3521962271408,0 -40.3457966762486,-20.3514517190049,0 -40.3469395238671,-20.3507721364399,0 -40.3480533417879,-20.3500504834368,0 -40.349415395218,-20.3492058484711,0 -40.3499713205974,-20.3488663185113,0 -40.3501888672503,-20.3486817714078,0 -40.350380894708,-20.3484328167657,0 -40.3505887962673,-20.3481030901467,0 -40.351292060481,-20.3468000404756,0 -40.3524846065912,-20.344594563781,0 -40.3530402758384,-20.3434683140881,0 -40.3532793320082,-20.342875322513,0 -40.3534464661125,-20.3422233170336,0 -40.3535396046848,-20.3417912592714,0 -40.3535696320963,-20.3414123903713,0 -40.35389215497116,-20.34054769657255,0 -40.35445965982445,-20.33920920501574,0 -40.35462776687344,-20.33850108305455,0 -40.35469181267244,-20.33787675051516,0 -40.35468264086069,-20.33602665676729,0 -40.35465567511726,-20.3341441729447,0 -40.35466792015788,-20.3303067334841,0 -40.35474685887602,-20.32852637857949,0 -40.3547466562825,-20.32624340131979,0 -40.3544953373963,-20.32423351196949,0 -40.35408981696881,-20.32280962643278,0 -40.35345840066015,-20.32133118024859,0 -40.35305173678526,-20.32061762407135,0 -40.35285411574949,-20.32029176336363,0 -40.35268875098181,-20.32014032353867,0 -40.35242557394672,-20.32007251927813,0 -40.35215505416164,-20.32007327217506,0 -40.35159367438431,-20.32034401567429,0 -40.35095454328427,-20.32075488163958,0 -40.35065837160265,-20.32092138163339,0 -40.35046651871687,-20.32104585571415,0 -40.35027909412776,-20.32114236537371,0 -40.3501107613122,-20.3212065891065,0 -40.3498666767943,-20.3211788982319,0 -40.3495843146174,-20.321177800065,0 -40.3492638374717,-20.3211524068842,0 -40.3488560068725,-20.3211193659006,0 -40.348645013921,-20.3210244692154,0 -40.3483297100777,-20.3209044935115,0 -40.3481684248971,-20.3208700755292,0 -40.3478350763685,-20.3208413906682,0 -40.3475603654596,-20.3208674669615,0 -40.3472954939857,-20.3209348397523,0 -40.3468642221282,-20.3210608564478,0 -40.3463792120891,-20.3211976496018,0 -40.3459860086624,-20.3213142945332,0 -40.3452060087605,-20.3215703954709,0 -40.3448663353258,-20.3216826761068,0 -40.3445680661848,-20.321708227516,0 -40.3443072168048,-20.3217048561525,0 -40.3440311701876,-20.3216587791959,0 -40.3438164130976,-20.3216326047082,0 -40.3435411882191,-20.3216568419621,0 -40.34305234407,-20.3217652565082,0 -40.342704431234,-20.3218562025262,0 -40.3418778331123,-20.3220469819352,0 -40.3413124813753,-20.322151536835,0 -40.340559564448,-20.3221548648657,0 -40.3395803783918,-20.3221472704897,0 -40.3387874737286,-20.3220860623503,0 -40.3381038660117,-20.3219879198828,0 -40.3376390575967,-20.3219066890031,0 -40.3366748879372,-20.3217790806882,0 -40.335770271027,-20.3216613893433,0 -40.3346566387689,-20.3214910229549,0 -40.3334642016738,-20.321348206795,0 -40.3321367162335,-20.3211838602424,0 -40.3306867164167,-20.3209828415742,0 -40.3296616354599,-20.3208451040724,0 -40.3289767506003,-20.3207588678022,0 -40.3285952544562,-20.3207189209065,0 -40.3284018654687,-20.3207155299624,0 -40.3282078963278,-20.3207486704912,0 -40.3276963809179,-20.3209201438768,0 -40.3273110883062,-20.3210571781598,0 -40.3269934819422,-20.3211464940211,0 -40.3266495536577,-20.3212066596909,0 -40.3263490948612,-20.3212298087592,0 -40.3258671942676,-20.3212030029855,0 -40.3256302430536,-20.3211301233291,0 -40.3254152627052,-20.3210138538153,0 -40.3252137753526,-20.3208813362838,0 -40.3250656418433,-20.3207189531232,0 -40.3249313197247,-20.3205433636807,0 -40.3247490458665,-20.3202466696069,0 -40.3245534415448,-20.319941131613,0 -40.3243870220534,-20.3197915037661,0 -40.3239936429997,-20.3194748361303,0 -40.3236036716092,-20.3191824149462,0 -40.3232539114346,-20.318940621804,0 -40.3229419842257,-20.3187777861096,0 -40.3225367521408,-20.3186010811473,0 -40.3220249123379,-20.3183974382471,0 -40.3216298938096,-20.3182873151819,0 -40.3210829969502,-20.3181622026358,0 -40.320604893674,-20.3180786081125,0 -40.3197363591939,-20.3179475770886,0 -40.3186701251789,-20.3177457341848,0 -40.3174544314033,-20.3175622728258,0 -40.3158760840407,-20.3172981355288,0 -40.314300221628,-20.3170436628553,0 -40.3139573847436,-20.316997144815,0 -40.3132487969112,-20.3169505472145,0 -40.3128359265387,-20.3169970324639,0 -40.3123690015578,-20.3171069836401,0 -40.3120867512632,-20.3172234172358,0 -40.3118606643832,-20.3173490022958,0 -40.3114575390741,-20.3176306753169,0 -40.3111620564322,-20.3178794745,0 -40.3108363815454,-20.3180671876229,0 -40.3104991765547,-20.3181995305007,0 -40.3102317193761,-20.3182655953676,0 -40.3095738594623,-20.3183463720636,0 -40.3085487120559,-20.3183649493436,0 -40.3073380842857,-20.3184444769022,0 -40.3069837306531,-20.3184745508832,0 -40.3067648309107,-20.3184598093238,0 -40.306680670591,-20.3184108203301,0 -40.3064695666227,-20.318240653758,0 -40.3062605103675,-20.3179877027598,0 -40.3053393944867,-20.3170899795849,0 -40.3045478971295,-20.3162656675389,0 -40.30407582414,-20.3158368401026,0 -40.3038196854077,-20.3157044566886,0 -40.3035862252447,-20.3156656784685,0 -40.3030256420477,-20.3155979296134,0 -40.3024370202142,-20.3155097308858,0 -40.3021140264534,-20.3154881172251,0 -40.3019052778697,-20.3154968299934,0 -40.3017924433124,-20.3155493612884,0 -40.301649216446,-20.315647963655,0 -40.3014789600817,-20.3157506175246,0 -40.3012053065437,-20.3158769396682,0 -40.2999531697553,-20.31631088472,0 -40.2993766232038,-20.3164732696875,0 -40.2990943530669,-20.3165137666328,0 -40.2987160043772,-20.3165037291328,0 -40.2983854090163,-20.3164221952515,0 -40.2980649957047,-20.3163350102975,0 -40.2977603715968,-20.3162879184066,0 -40.2974451535431,-20.316277388605,0 -40.2969765639898,-20.3162086838904,0 -40.2961387722425,-20.3161924824393,0 -40.2951854171822,-20.3161766075729,0 -40.2950886762424,-20.3161512686279,0 -40.2949859897714,-20.316011199869,0 -40.2949747212344,-20.3158756486408,0 -40.2949668221523,-20.3153817133831,0 -40.2949756218769,-20.3135868064692,0 -40.2949927476405,-20.313236701784,0 -40.2949225981378,-20.3129532953362,0 -40.2947305931928,-20.312478130825,0 -40.2945991422815,-20.3123225106665,0 -40.2944896765707,-20.3122524303416,0 -40.2943582289235,-20.3122480766729,0 -40.294195885928,-20.3123175871486,0 -40.2938702861638,-20.3124527169732,0 -40.2934784994289,-20.3125842654716,0 -40.292523691588,-20.3129620847031,0 -40.291282890053,-20.3134436076616,0 -40.2903677542796,-20.3138160198611,0 -40.2894547337419,-20.3141837364079,0 -40.2887722285435,-20.3145051283644,0 -40.2883577561694,-20.3147269498084,0 -40.2878812672846,-20.3150428230108,0 -40.28745186597929,-20.31535161919532,0 -40.28710406453542,-20.31566431253675,0 -40.28679566394723,-20.31600411472723,0 -40.28644243917125,-20.31640502942354,0 -40.28618612553981,-20.31674697179686,0 -40.28553339889255,-20.31800001661026,0 -40.28514822941465,-20.31908504899434,0 -40.28499777723702,-20.31945799830798,0 -40.28459314530429,-20.32058068521291,0 -40.28431237549707,-20.32135710648765,0 -40.28407507719489,-20.32203194650769,0 -40.28346822236414,-20.32364880199105,0 -40.28318032007924,-20.32443269242625,0 -40.2830012699547,-20.32500415534855,0 -40.28289790395606,-20.32561566033801,0 -40.28287200754255,-20.32592456497484,0 -40.28285817479492,-20.32614982062684,0 -40.28286854222367,-20.32684266189549,0 -40.28291351454169,-20.32707649369554,0 -40.28294129223725,-20.3272748870376,0 -40.28297187166216,-20.32748566216096,0 -40.28302878752572,-20.32769275625906,0 -40.2831023793084,-20.3280102475785,0 -40.2832560093869,-20.3286580768995,0 -40.283460763933,-20.3295997221231,0 -40.2836831211227,-20.3308923861838,0 -40.2838175071535,-20.3317929323141,0 -40.28394782604,-20.3325395577689,0 -40.2841146411276,-20.3335404374388,0 -40.2842428950153,-20.3343625348969,0 -40.2843695749862,-20.3351839084899,0 -40.2845126715788,-20.3361223967108,0 -40.284638051638,-20.3369603174954,0 -40.2847231116965,-20.3374094644411,0 -40.2848266304874,-20.3377013605513,0 -40.2849948283819,-20.3380218840111,0 -40.2852581607319,-20.3383797416242,0 -40.2855781296059,-20.3386638296478,0 -40.2862369993925,-20.3390943424799,0 -40.28740252112635,-20.3397241183827,0 -40.28766834402446,-20.33985529756057,0 -40.29233669833129,-20.34238164831629,0 -40.29297637815743,-20.34237496131701,0 -40.29372378460689,-20.34239011287605,0 -40.29396681341266,-20.34237798982607,0 -40.29474603978753,-20.34228178522903,0 -40.29482389084924,-20.34234350915922,0 -40.29488951710357,-20.34238681564647,0 -40.29493083352597,-20.34247570292663,0 -40.29493082861077,-20.34255547154482,0 -40.29489193174902,-20.34264663355842,0 
@@ -36025,7 +36089,6 @@
 			<Folder>
 				<name>587_TCA</name>
 				<visibility>0</visibility>
-				<open>1</open>
 				<Placemark>
 					<name>587I</name>
 					<visibility>0</visibility>
@@ -36042,7 +36105,7 @@
 					<name>587I_F</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin11</styleUrl>
+					<styleUrl>#msn_ylw-pushpin112</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -36054,7 +36117,7 @@
 					<name>587V</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<styleUrl>#msn_ylw-pushpin103</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -36541,7 +36604,7 @@
 					<name>704I_P</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin71</styleUrl>
+					<styleUrl>#msn_ylw-pushpin711</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.39142644056805,-20.286633476289,13.59583 -40.39130261188469,-20.28668325614672,13.59583 -40.39108738571714,-20.28678004958211,13.59583 -40.39073355927771,-20.2869170458643,13.59583 -40.39047410727031,-20.28701107425914,13.59583 -40.39032963933953,-20.28706361950719,13.59583 -40.39016748094495,-20.2871051032159,13.59583 -40.389913923065,-20.28709680973924,13.59583 -40.38963382906978,-20.28703597264425,13.59583 -40.38918567702659,-20.28688940753232,13.59583 -40.38897185587773,-20.28676938965244,13.59583 -40.3887861102688,-20.28661729085023,13.59583 -40.38865343476222,-20.28645966079672,13.59583 -40.38855908769976,-20.28627161057601,13.59583 -40.38845884378912,-20.28612780722294,13.59583 -40.38825228582552,-20.28588880655161,13.59583 -40.38806918944692,-20.2857530763211,13.59583 -40.38785951443055,-20.28558410569184,13.59583 -40.38765869883549,-20.28540682456361,13.59583 -40.38750513376681,-20.28527109322858,13.59583 -40.38735747522315,-20.28500240082352,13.59583 -40.38716003526269,-20.28464324909547,13.59583 -40.38698875483201,-20.28426375692309,13.59583 -40.38683519192936,-20.28397844395817,13.59583 -40.38678077496873,-20.28372199686028,13.59583 -40.38671580743146,-20.28355856596808,13.59583 -40.3866154017072,-20.28342837446629,13.59583 -40.38645888616531,-20.28326771171211,13.59583 -40.38627119931281,-20.28282821320857,13.59583 -40.38608811045653,-20.28243763968358,13.59583 -40.38607039281939,-20.28234622900134,13.59583 -40.38606801715879,-20.28223751829441,18.40234 -40.38607475151657,-20.28206412028021,18.40234 -40.38604441341386,-20.28174935339857,18.40234 -40.38604706482038,-20.2816120045329,18.40234 -40.38607159652267,-20.28150233406602,18.40234 -40.38612500589559,-20.28140791453437,18.40234 -40.38616166533022,-20.28133269443415,18.40234 -40.38622868069428,-20.28127888776315,18.40234 -40.38633509016927,-20.28120925451302,18.40234 -40.38665097392334,-20.28110277038062,18.40234 -40.38693175203355,-20.28098795133649,18.40234 -40.38744419539504,-20.28065980955712,18.40234 -40.38800585571728,-20.28034237366479,18.40234 -40.38831851932615,-20.28019063393549,18.40234 -40.38872068925055,-20.2800537129791,18.40234 -40.38913363420826,-20.27991913674059,18.40234 -40.38933091763227,-20.27989688205222,18.40234 -40.38962992341727,-20.27990217137751,18.40234 -40.38977702607313,-20.27994941454948,18.40234 -40.38991405156634,-20.28002401673002,18.40234 -40.39000661152741,-20.28012930222392,18.40234 -40.39011249420825,-20.28022403865962,18.40234 -40.39022738057238,-20.28031071171995,18.40234 -40.39038115968434,-20.28040583909632,18.40234 -40.39049771524695,-20.28048788115489,18.40234 -40.39061144455795,-20.28055569929991,18.40234 -40.39080713550203,-20.28071215350138,18.40234 -40.39107645933946,-20.2809926222742,18.40234 -40.39142727030917,-20.28145328880668,18.40234 -40.39158630473967,-20.28168142762031,18.40234 -40.39168920941155,-20.28183498240137,18.40234 -40.39179679106212,-20.2819622129708,18.40234 -40.3919090491068,-20.28204557005506,18.40234 -40.3919682416213,-20.28206715035235,18.40234 -40.39204863362035,-20.28206212158823,18.40234 -40.39218619278074,-20.28203698294671,18.40234 -40.39231481915131,-20.28200179007309,18.40234 -40.39242197213368,-20.28197440834287,18.40234 -40.39249059230792,-20.28198169349692,18.40234 -40.39256180245471,-20.28201205290037,18.40234 -40.3927197597822,-20.28209341663615,18.40234 -40.39282981284076,-20.2821796390967,18.40234 -40.39297223411731,-20.28227436175981,18.40234 -40.39309393863346,-20.28231686403884,18.40234 -40.39336433283403,-20.28237396693264,18.40234 -40.39345755393347,-20.28242254188564,18.40234 -40.39352229352547,-20.28254034060028,18.40234 -40.39356761136738,-20.28262413565559,18.40234 -40.393643614197,-20.28270404983564,18.40234 -40.39376790967835,-20.28277812691142,18.40234 -40.39409905143751,-20.28291527392106,18.40234 -40.39438001010016,-20.28302577874613,18.40234 -40.39454055874413,-20.28310835515824,18.40234 -40.39464025594319,-20.28319822022632,18.40234 -40.39479194434752,-20.28336216563342,18.40234 -40.39496026331776,-20.28347874565226,18.40234 -40.39515042207982,-20.2835445157569,18.40234 -40.39527601137225,-20.28356394201344,18.40234 -40.39543526325065,-20.28357729468481,18.40234 -40.39558950011363,-20.28354344911859,18.40234 -40.39586767944002,-20.2834973911528,18.40234 -40.39605131584285,-20.28350420515944,18.40234 -40.39610404338377,-20.28351102463508,18.40234 -40.39617989491818,-20.28350992745862,18.40234 -40.39636939939385,-20.28344220271722,18.40234 -40.39677548077,-20.2833236803036,18.40234 -40.39696356857262,-20.28326469177957,18.40234 -40.396968777807,-20.2832255859697,18.40234 -40.3969094769306,-20.28308891244035,18.40234 -40.39676020924537,-20.28274409062463,18.40234 -40.3967586357918,-20.28269840823635,18.40234 -40.39682618844972,-20.28265714352423,18.40234 -40.39851759833993,-20.28195438385215,18.40234 -40.39856630109951,-20.28196469653502,18.40234 -40.39879098046269,-20.28229035556578,18.40234 -40.39889955546293,-20.28245123058221,18.40234 -40.39887756354733,-20.28249101989314,18.40234 -40.39881943769922,-20.28253081125392,18.40234 -40.39807478578037,-20.28289189177636,18.40234 -40.39775333657866,-20.28302011435653,18.40234 -40.39760251985221,-20.28308201446686,18.40234 -40.39718934278766,-20.2832264508439,18.40234 -40.39690341631359,-20.28331783016278,18.40234 -40.39660806142849,-20.28340184183799,18.40234 -40.39645252827191,-20.28345342684959,18.40234 -40.39632841547292,-20.28349616858091,18.40234 -40.39614210834711,-20.28355916885408,18.40234 -40.39590174180626,-20.28364907045393,18.40234 -40.39576506383124,-20.28372865228115,18.40234 -40.39565509304845,-20.28379939127387,18.40234 -40.39557025901251,-20.28387160292191,18.40234 -40.39544873273166,-20.28400727207092,18.40234 -40.39525756600298,-20.28428458294729,18.40234 -40.39513143411585,-20.28445651646408,18.40234 -40.39482343773069,-20.28486904469031,18.40234 -40.39440783532856,-20.28543610917816,18.40234 -40.39419831538352,-20.28573252932413,18.40234 -40.39399222798499,-20.28600317497417,18.40234 -40.39388918564436,-20.28620293623971,18.40234 -40.39378614380155,-20.28644458313218,18.40234 -40.39372497609754,-20.28673783903416,18.40234 -40.39368854454796,-20.28698734489952,18.40234 -40.39364847242776,-20.28737356686888,18.40234 -40.39358290164731,-20.28796037171684,18.40234 -40.39351368806544,-20.28859268040637,18.40234 -40.3934444732469,-20.28927625700945,18.40234 -40.39340082088817,-20.28963346883465,18.40234 -40.39332476326287,-20.29034677530571,18.40234 -40.39323271881521,-20.29112892499549,18.40234 -40.39311898799686,-20.29217018563747,18.40234 -40.39311899944871,-20.29258963354816,18.40234 -40.39318986138031,-20.29291747912114,18.40234 -40.39349114743051,-20.29348968939864,18.40234 -40.39365351364391,-20.29371995765111,18.40234 -40.39401038232882,-20.294154651529,18.40234 -40.39428456366899,-20.29450771325056,18.40234 -40.394434711512,-20.294703632476,18.40234 -40.39462715012282,-20.29499090058013,18.40234 -40.39472725268227,-20.2952011067509,18.40234 -40.39480342048519,-20.29543988620307,18.40234 -40.39483993955982,-20.29568619303833,18.40234 -40.39485571777524,-20.2960912751149,18.40234 -40.39485573418495,-20.29654366854439,18.40234 -40.39483446403725,-20.29701801661523,18.40234 -40.39489564031214,-20.29728920801573,18.40234 -40.39498739700037,-20.29748738490594,18.40234 -40.39515079377853,-20.29771957244363,18.40234 -40.3954602220883,-20.29807006055956,18.40234 -40.39577367165839,-20.29846200601313,18.40234 -40.39605095535741,-20.29880495924682,18.40234 -40.39629553999784,-20.29916290206012,18.40234 -40.39642496664749,-20.29941913525883,18.40234 -40.39650263184002,-20.29975089420624,18.40234 -40.39654003202049,-20.30002331606127,18.40234 -40.39656434270977,-20.30045821223957,18.40234 -40.39655346857747,-20.30082600001121,18.40234 -40.39652352332457,-20.30103032827437,18.40234 -40.3964745127581,-20.30118613013228,18.40234 -40.3964269401458,-20.30132792461421,18.40234 -40.39626180988611,-20.30156148624625,18.40234 -40.3960390074423,-20.30174588171134,18.40234 -40.39584503567843,-20.30187619000192,18.40234 -40.39566537288938,-20.30195542495749,18.40234 -40.39537565704451,-20.30202276573747,18.40234 -40.39498594594413,-20.30203720882646,18.40234 -40.39453982502561,-20.30202039359349,18.40234 -40.39428086722491,-20.30198433385661,18.40234 -40.39360886733154,-20.30191400868755,18.40234 -40.39328006812764,-20.30190967520553,18.40234 -40.3931550316638,-20.30192705182693,18.40234 -40.39298915228006,-20.30198036450576,18.40234 -40.39283832226014,-20.30208076097048,18.40234 -40.39271182068123,-20.30221309992561,18.40234 -40.39251720503692,-20.30253253621546,18.40234 -40.39228853078121,-20.30295236686555,18.40234 -40.39208418181312,-20.30335850830809,18.40234 -40.3918992917204,-20.30368251086045,18.40234 -40.39176705158096,-20.30386653630344,18.40234 -40.39168440049585,-20.30397284744468,18.40234 -40.39147595632365,-20.30418140478792,18.40234 -40.39128513417853,-20.30430310528343,18.40234 -40.39102306982326,-20.30444389711845,18.40234 -40.39075591419639,-20.30453935115764,18.40234 -40.39001294713633,-20.30479934956699,18.40234 -40.38942500321019,-20.30502762542098,18.40234 -40.389131027673,-20.30517289172315,18.40234 -40.38894136378309,-20.30532408672956,18.40234 -40.38882756429602,-20.3054634231849,18.40234 -40.3887423417209,-20.30559368673125,18.40234 -40.3886645520063,-20.30575371625815,18.40234 -40.38861687394583,-20.30591609937091,18.40234 -40.38858425159427,-20.30605494896124,18.40234 -40.38856017208329,-20.30645515551245,18.40234 -40.3885338123377,-20.30685686838167,18.40234 -40.3885173368592,-20.30718751019158,18.40234 -40.38845241516098,-20.3080072929506,18.40234 -40.38845472707801,-20.30822418227508,18.40234 -40.38847402580587,-20.30878593135415,18.40234 -40.38839069537494,-20.30980159788821,18.40234 -40.38835516286989,-20.31012148667035,18.40234 -40.38833055326296,-20.31025910730744,18.40234 -40.38826976754829,-20.31048712912087,18.40234 -40.38818964112379,-20.31065037239545,18.40234 -40.38793967493546,-20.31095722116734,18.40234 -40.38777343303876,-20.31120095664761,18.40234 -40.38772894515107,-20.31129098533194,18.40234 -40.38766090905813,-20.31141561470699,18.40234 -40.38762692705844,-20.31159088414819,18.40234 -40.38760265270252,-20.3118276123344,18.40234 -40.3875118626217,-20.31259246299159,18.40234 -40.38747292273353,-20.31302143056806,18.40234 -40.38743305071361,-20.31319903389778,18.40234 -40.38740314735433,-20.3132663363038,18.40234 -40.38735929565014,-20.31335582353699,18.40234 -40.38722790640839,-20.31347714389875,18.40234 -40.38700151218501,-20.31363258538787,18.40234 -40.38660734106051,-20.31385247852758,18.40234 -40.38585312344804,-20.31424012128734,18.40234 -40.38521703571119,-20.31457070159679,18.40234 -40.38495206383705,-20.31475400353202,18.40234 -40.38468054957405,-20.31504654296196,18.40234 -40.38452528242139,-20.31529013932584,18.40234 -40.38439448059707,-20.31550921574317,18.40234 -40.38423048387894,-20.31585484191267,18.40234 -40.38406846949794,-20.31618631368584,18.40234 -40.38377087590752,-20.31678469475423,18.40234 -40.38359514832212,-20.31711645485756,18.40234 -40.3833630549715,-20.31755939264257,18.40234 -40.38326370046244,-20.31775736409459,18.40234 -40.38303690095536,-20.31826614487514,18.40234 -40.38280781667277,-20.31880748736797,18.40234 -40.38263953761546,-20.31917274572782,18.40234 -40.38213960748752,-20.32025416222421,18.40234 -40.38192231205031,-20.32059864899987,18.40234 -40.38177053316726,-20.32082239718431,18.40234 -40.38171814790886,-20.32097383927884,18.40234 -40.38168025236332,-20.32115634113472,18.40234 -40.38171031129865,-20.32140731062052,18.40234 -40.38178547907813,-20.3215877851575,18.40234 -40.38188771106053,-20.32175134148596,18.40234 -40.38207714784534,-20.32190644128688,18.40234 -40.38227074857723,-20.32205678037848,18.40234 -40.38237005799427,-20.32219507267277,18.40234 -40.38239713944993,-20.32230514029558,18.40234 -40.3823941245479,-20.32243496263819,18.40234 -40.38234897616055,-20.32255349478805,18.40234 -40.38186433817687,-20.32326343685073,18.40234 -40.38153756383678,-20.3237213202137,18.40234 -40.38139069322646,-20.32401051310442,18.40234 -40.38129889874427,-20.32418265217941,18.40234 -40.38122745614589,-20.32425263334753,18.40234 -40.38112620464837,-20.32430782984989,18.40234 -40.38082128670258,-20.32417864692649,18.40234 -40.38049870879806,-20.3240329019335,18.40234 -40.37951008858081,-20.32356403073917,18.40234 -40.37899765309314,-20.32329277459748,18.40234 -40.3786736821564,-20.32309322408983,18.40234 -40.37851824762419,-20.32293334148103,18.40234 -40.37838537333266,-20.32283693891885,18.40234 -40.37825751022972,-20.32278755795863,18.40234 -40.37809705193516,-20.32276168553554,18.40234 -40.37761619588294,-20.32269693164187,18.40234 -40.37705547988189,-20.32267658443938,18.40234 -40.37661267912472,-20.3226697833204,18.40234 -40.37635517628526,-20.32270361538619,18.40234 -40.37559181252252,-20.3228154576427,18.40234 -40.37531018493727,-20.32286096916185,18.40234 -40.37514832607096,-20.32292773846606,18.40234 -40.37492819426438,-20.3230552139501,18.40234 -40.37462713132624,-20.32321000271181,18.40234 -40.37433577591967,-20.32337996992216,18.40234 -40.37293246943885,-20.3240521689324,18.40234 -40.37257088126552,-20.32423125599694,18.40234 -40.37232471965447,-20.32440465251773,18.40234 -40.3720195478537,-20.32465633974057,18.40234 -40.37191326077284,-20.32481674705953,18.40234 -40.37181991882598,-20.32511053699626,18.40234 -40.37180043323818,-20.32553374686054,18.40234 -40.3718211474491,-20.32573062481989,18.40234 -40.37184833099777,-20.3260292637999,18.40234 -40.37193902858932,-20.32622614828916,18.40234 -40.37201548188398,-20.32631730174607,18.40234 -40.37219558949203,-20.32642983101348,18.40234 -40.37226168323903,-20.32644442048694,18.40234 -40.37238999153471,-20.32638974454796,18.40234 
@@ -37432,10 +37495,10 @@
 				<Placemark>
 					<name>736I</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin1921</styleUrl>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
 					<LineString>
 						<coordinates>
-							-40.35882444140925,-20.33342325877857,0 -40.35878296108383,-20.33329811580427,0 -40.35870284966655,-20.33338607726963,0 -40.35840838983365,-20.33375911647516,0 -40.35840661965745,-20.33385964735339,0 -40.35843229042946,-20.33394517036053,0 -40.35849383148647,-20.33400997202644,0 -40.35900449645131,-20.33437867491966,0 -40.35913579417431,-20.33446730255782,0 -40.35989707793217,-20.3336260151505,0 -40.36143615120514,-20.33697091206479,0 -40.36267462996418,-20.33555499760418,0 -40.36382741509399,-20.3364381526713,0 -40.36422889821231,-20.33596768077396,0 -40.36427147934253,-20.33592854167607,0 -40.36445077291161,-20.33518366805838,0 -40.36569890549564,-20.33455060943176,0 -40.36599275244973,-20.33507941837978,0 -40.36633450224368,-20.3356439610116,0 -40.36624881771514,-20.33569980302006,0 -40.3658259891527,-20.33591861518572,0 -40.36570365537287,-20.33603594045353,0 -40.3656742355094,-20.33611835048065,0 -40.36564449577242,-20.33627574539248,0 -40.36560600274413,-20.33651224978965,0 -40.36559304657182,-20.33676887296084,0 -40.36565342027836,-20.33697083610927,0 -40.36579599959406,-20.33737105564316,0 -40.36581131989941,-20.33741369179089,0 -40.36581863647278,-20.33743650239602,0 -40.36585549895616,-20.33745636006923,0 -40.36590911159674,-20.3374464429791,0 -40.3666745629687,-20.33692646725451,0 -40.36673486470387,-20.33682789257465,0 -40.3668740772877,-20.33630412981239,0 -40.36715214217155,-20.33539231692892,0 -40.36743997337474,-20.33439239771958,0 -40.36748695971704,-20.33436898535338,0 -40.36757515927192,-20.3343750401087,0 -40.36852073318781,-20.33462292703498,0 -40.3686551534191,-20.33466647955695,0 -40.36880366833482,-20.33476850546812,0 -40.36899528733859,-20.3350692336504,0 -40.36954330336764,-20.33596338036663,0 -40.3695663303299,-20.33617355113022,0 -40.36954719029577,-20.33625552619392,0 -40.36953677533089,-20.33639739044313,0 -40.36954081161258,-20.3364978899525,0 -40.36954779027094,-20.3365974932909,0 -40.36959150193573,-20.33671238221105,0 -40.36963877794425,-20.33677897070736,0 -40.36975154150505,-20.33685628667563,0 -40.36987183577468,-20.33686126280843,0 -40.36999489659947,-20.33679550978269,0 -40.37052117136989,-20.33636979028272,0 -40.37082615093364,-20.33614155372926,0 -40.37090003432985,-20.3361032131866,0 -40.37099940604524,-20.3360793529657,0 -40.37122076873211,-20.33614444859895,0 -40.37262955018214,-20.33661685087509,0 -40.37325655542408,-20.336869891868,0 -40.37343982071721,-20.33694539959347,0 -40.37353783205488,-20.33701109691046,0 -40.37363842680947,-20.33711394486276,0 -40.37379360238369,-20.33727797127443,0 -40.37384796482582,-20.33737814977547,0 -40.37383554124821,-20.33751816404581,0 -40.37373513244418,-20.33777167544481,0 -40.37370265041063,-20.33792993877472,0 -40.37368397247241,-20.33835152544828,0 -40.37364841782998,-20.3385675115361,0 -40.37355545595454,-20.33892698902015,0 -40.37348083817656,-20.33913796663956,0 -40.37344786166257,-20.33927413915645,0 -40.37344862549067,-20.33948494375647,0 -40.37346034532239,-20.33958788025304,0 -40.37384275521661,-20.34078156683994,0 -40.3741546131664,-20.34192970181116,0 -40.37431570389127,-20.34255137519515,0 -40.3744277715867,-20.34277011842059,0 -40.37463879365591,-20.34308242367619,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.375746361723,-20.34770979312628,0 -40.37571024816754,-20.3477533264391,0 -40.37500474216984,-20.34591902882146,0 -40.37479892980156,-20.34578426947806,0 -40.3746682590376,-20.34575977199751,0 -40.37440365254181,-20.34573528030479,0 -40.37429911819752,-20.34575366234789,0 -40.374223988937,-20.34586393063871,0 -40.37337927519735,-20.34733541558624,0 -40.37323235298767,-20.34746137277683,0 -40.37316518632306,-20.34746924708441,0 -40.37313160139279,-20.34743776019468,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419777214959,-20.34516664952863,0 -40.37457103097437,-20.34511940144251,0 -40.37470955298559,-20.34490291295686,0 -40.37476411270023,-20.34469386192567,0 -40.37448280775391,-20.34380313135806,0 -40.3742686643806,-20.34275550841297,0 -40.37424602019775,-20.34251047883467,0 -40.37419179554755,-20.34228595230855,0 -40.37406294663571,-20.3417398874789,0 -40.37401125381548,-20.34153467549887,0 -40.37390977389657,-20.34114660460427,0 -40.37376050567087,-20.34065954184704,0 -40.3736981395658,-20.34041024599446,0 -40.37348358187109,-20.33977592934354,0 -40.37340616884921,-20.33953056349786,0 -40.3733962656661,-20.33940858699382,0 -40.37340761314717,-20.33923029153861,0 -40.37344302549091,-20.3390638256557,0 -40.37352563424936,-20.33888366914046,0 -40.37357148904138,-20.33869733521783,0 -40.37362724152411,-20.33847456887123,0 -40.37365284494033,-20.3382191975829,0 -40.37367114127499,-20.33789333810325,0 -40.37371082445823,-20.33774865164415,0 -40.37379751584066,-20.33755717184745,0 -40.37382132114695,-20.33745101580951,0 -40.37381590289509,-20.33738247731995,0 -40.37378373711005,-20.33732629289108,0 -40.37364523055357,-20.337167435077,0 -40.37344286316395,-20.33698696289515,0 -40.37327380230751,-20.33691923758505,0 -40.37287058413232,-20.33675969366725,0 -40.37253475009844,-20.33660997494502,0 -40.37221566325187,-20.33651476809234,0 -40.37162087207678,-20.33630943705531,0 -40.37107749242168,-20.33614349873167,0 -40.37093585879396,-20.33614237545748,0 -40.37081430057135,-20.33622389588104,0 -40.37065807931695,-20.33633817234019,0 -40.37036645082659,-20.33654983836367,0 -40.3702181518395,-20.33666931075738,0 -40.37006912179366,-20.33678979843805,0 -40.36997216830746,-20.33686033134573,0 -40.36990436844491,-20.33689298738718,0 -40.36977997649721,-20.33690529154554,0 -40.36971993266781,-20.33688684886973,0 -40.36963179537386,-20.3368422418657,0 -40.36956293348704,-20.3367397585535,0 -40.36952841862588,-20.33666519556275,0 -40.36950322831722,-20.33647131696763,0 -40.36952698245358,-20.33620662961965,0 -40.36953099637443,-20.33605051996086,0 -40.36949688195238,-20.33594202567061,0 -40.36941664152774,-20.33581652744368,0 -40.36909284112763,-20.33529945860802,0 -40.36890536861914,-20.33498063694135,0 -40.36876831175378,-20.33480671017153,0 -40.36869164038423,-20.33473397181406,0 -40.36843770148036,-20.33464207658157,0 -40.36777726332861,-20.33445373545822,0 -40.36753338663804,-20.33441274122479,0 -40.36747196362634,-20.33447267707329,0 -40.36741536320259,-20.33463638510116,0 -40.36727936112555,-20.33508532917252,0 -40.36703480888154,-20.33590253025258,0 -40.3668697619844,-20.33644856432544,0 -40.3668159180789,-20.33667567894825,0 -40.36680379627252,-20.3367855088554,0 -40.36677902808894,-20.33685230080594,0 -40.3667404661653,-20.33690790283734,0 -40.36670593160622,-20.33694804007617,0 -40.36662897134068,-20.33701108747718,0 -40.36648277486031,-20.33712907556093,0 -40.36634396425102,-20.33723484087229,0 -40.36627661318482,-20.33724325658503,0 -40.36624968488456,-20.33709168990879,0 -40.36632162317572,-20.335816024324,0 -40.36633061211263,-20.33569814078567,0 -40.36626977241889,-20.33558325683672,0 -40.36569158833756,-20.33460318105796,0 -40.36479205783793,-20.3350465497067,0 -40.36452146462888,-20.33519281639255,0 -40.36437271652945,-20.33576195397956,0 -40.36434832233792,-20.33595395471732,0 -40.36412159460809,-20.33618708491471,0 -40.36386594526354,-20.3364591731211,0 -40.36380486218684,-20.33647308180821,0 -40.36361959580986,-20.33633846637678,0 -40.36279868399282,-20.33567905056783,0 -40.36271392491717,-20.33563075312636,0 -40.36266325807207,-20.33567342572408,0 -40.36178888783346,-20.33666731051464,0 -40.36147240541205,-20.33701027031529,0 -40.36081687070698,-20.33776495966492,0 -40.36070811649469,-20.33785673524775,0 -40.3606189838176,-20.33786995439027,0 -40.3599254576435,-20.33729452524898,0 -40.35950034818492,-20.33695362716436,0 -40.35943565700158,-20.33692215140457,0 -40.3593286606291,-20.33693561807382,0 -40.35885481430776,-20.33695334684991,0 -40.35877446432509,-20.33694870617707,0 -40.35868935924384,-20.33686701724219,0 -40.35864962421213,-20.33675035542375,0 -40.35860414110202,-20.33618306514982,0 -40.35765663481809,-20.33545521705538,0 -40.35755935957672,-20.3353788553077,0 -40.35760883079755,-20.33524150947063,0 -40.35852831995304,-20.33419799504151,0 -40.35844677409725,-20.33412996381616,0 -40.35831965662585,-20.33401495072913,0 -40.35825139777073,-20.33392447183132,0 -40.35829329267266,-20.33383129531022,0 -40.35834814653096,-20.33382831969532,0 -40.35855120537482,-20.33400762393195,0 -40.35861757158034,-20.33395739872347,0 
+							-40.35882444140925,-20.33342325877857,0 -40.35878296108383,-20.33329811580427,0 -40.35870284966655,-20.33338607726963,0 -40.35840838983365,-20.33375911647516,0 -40.35840661965745,-20.33385964735339,0 -40.35843229042946,-20.33394517036053,0 -40.35849383148647,-20.33400997202644,0 -40.35900449645131,-20.33437867491966,0 -40.35913579417431,-20.33446730255782,0 -40.35989707793217,-20.3336260151505,0 -40.36143615120514,-20.33697091206479,0 -40.36267462996418,-20.33555499760418,0 -40.36382741509399,-20.3364381526713,0 -40.36422889821231,-20.33596768077396,0 -40.36427147934253,-20.33592854167607,0 -40.36445077291161,-20.33518366805838,0 -40.36569890549564,-20.33455060943176,0 -40.36599275244973,-20.33507941837978,0 -40.36633450224368,-20.3356439610116,0 -40.36624881771514,-20.33569980302006,0 -40.3658259891527,-20.33591861518572,0 -40.36570365537287,-20.33603594045353,0 -40.3656742355094,-20.33611835048065,0 -40.36564449577242,-20.33627574539248,0 -40.36560600274413,-20.33651224978965,0 -40.36559304657182,-20.33676887296084,0 -40.36565342027836,-20.33697083610927,0 -40.36579599959406,-20.33737105564316,0 -40.36581131989941,-20.33741369179089,0 -40.36581863647278,-20.33743650239602,0 -40.36585549895616,-20.33745636006923,0 -40.36590911159674,-20.3374464429791,0 -40.3666745629687,-20.33692646725451,0 -40.36673486470387,-20.33682789257465,0 -40.3668740772877,-20.33630412981239,0 -40.36715214217155,-20.33539231692892,0 -40.36743997337474,-20.33439239771958,0 -40.36748695971704,-20.33436898535338,0 -40.36757515927192,-20.3343750401087,0 -40.36852073318781,-20.33462292703498,0 -40.3686551534191,-20.33466647955695,0 -40.36880366833482,-20.33476850546812,0 -40.36899528733859,-20.3350692336504,0 -40.36954330336764,-20.33596338036663,0 -40.3695663303299,-20.33617355113022,0 -40.36954719029577,-20.33625552619392,0 -40.36953677533089,-20.33639739044313,0 -40.36954081161258,-20.3364978899525,0 -40.36954779027094,-20.3365974932909,0 -40.36959150193573,-20.33671238221105,0 -40.36963877794425,-20.33677897070736,0 -40.36975154150505,-20.33685628667563,0 -40.36987183577468,-20.33686126280843,0 -40.36999489659947,-20.33679550978269,0 -40.37052117136989,-20.33636979028272,0 -40.37082615093364,-20.33614155372926,0 -40.37090003432985,-20.3361032131866,0 -40.37099940604524,-20.3360793529657,0 -40.37122076873211,-20.33614444859895,0 -40.37262955018214,-20.33661685087509,0 -40.37325655542408,-20.336869891868,0 -40.37343982071721,-20.33694539959347,0 -40.37353783205488,-20.33701109691046,0 -40.37363842680947,-20.33711394486276,0 -40.37379360238369,-20.33727797127443,0 -40.37384796482582,-20.33737814977547,0 -40.37383554124821,-20.33751816404581,0 -40.37373513244418,-20.33777167544481,0 -40.37370265041063,-20.33792993877472,0 -40.37368397247241,-20.33835152544828,0 -40.37364841782998,-20.3385675115361,0 -40.37355545595454,-20.33892698902015,0 -40.37348083817656,-20.33913796663956,0 -40.37344786166257,-20.33927413915645,0 -40.37344862549067,-20.33948494375647,0 -40.37346034532239,-20.33958788025304,0 -40.37384275521661,-20.34078156683994,0 -40.3741546131664,-20.34192970181116,0 -40.37431570389127,-20.34255137519515,0 -40.3744277715867,-20.34277011842059,0 -40.37463879365591,-20.34308242367619,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.37553678056803,-20.34733823830165,0 -40.37547525221408,-20.34737670253758,0 -40.37400847896263,-20.34845855026731,0 -40.37294711370584,-20.34898262498377,0 -40.37286507464974,-20.34900185913223,0 -40.3726641681821,-20.34866119365826,0 -40.37260457478642,-20.34844124302861,0 -40.3725636060936,-20.34831206619366,0 -40.37242582240965,-20.34820023702476,0 -40.37221728258402,-20.34796982072046,0 -40.37192161115617,-20.34754119943807,0 -40.37184340583774,-20.34740504125233,0 -40.37184338805321,-20.34709082270996,0 -40.37187683235113,-20.34582041647106,0 -40.37189916827115,-20.34571218479156,0 -40.37196246717216,-20.34565632083248,0 -40.37207045494989,-20.34569122880642,0 -40.37232745066855,-20.34673163174185,0 -40.37250249387348,-20.34731241798982,0 -40.37268124017495,-20.3474380965528,0 -40.37299031488354,-20.34749743324445,0 -40.3730803901646,-20.34749393568642,0 -40.3731176234873,-20.34743807273563,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419777214959,-20.34516664952863,0 -40.37457103097437,-20.34511940144251,0 -40.37470955298559,-20.34490291295686,0 -40.37476411270023,-20.34469386192567,0 -40.37448280775391,-20.34380313135806,0 -40.3742686643806,-20.34275550841297,0 -40.37424602019775,-20.34251047883467,0 -40.37419179554755,-20.34228595230855,0 -40.37406294663571,-20.3417398874789,0 -40.37401125381548,-20.34153467549887,0 -40.37390977389657,-20.34114660460427,0 -40.37376050567087,-20.34065954184704,0 -40.3736981395658,-20.34041024599446,0 -40.37348358187109,-20.33977592934354,0 -40.37340616884921,-20.33953056349786,0 -40.3733962656661,-20.33940858699382,0 -40.37340761314717,-20.33923029153861,0 -40.37344302549091,-20.3390638256557,0 -40.37352563424936,-20.33888366914046,0 -40.37357148904138,-20.33869733521783,0 -40.37362724152411,-20.33847456887123,0 -40.37365284494033,-20.3382191975829,0 -40.37367114127499,-20.33789333810325,0 -40.37371082445823,-20.33774865164415,0 -40.37379751584066,-20.33755717184745,0 -40.37382132114695,-20.33745101580951,0 -40.37381590289509,-20.33738247731995,0 -40.37378373711005,-20.33732629289108,0 -40.37364523055357,-20.337167435077,0 -40.37344286316395,-20.33698696289515,0 -40.37327380230751,-20.33691923758505,0 -40.37287058413232,-20.33675969366725,0 -40.37253475009844,-20.33660997494502,0 -40.37221566325187,-20.33651476809234,0 -40.37162087207678,-20.33630943705531,0 -40.37107749242168,-20.33614349873167,0 -40.37093585879396,-20.33614237545748,0 -40.37081430057135,-20.33622389588104,0 -40.37065807931695,-20.33633817234019,0 -40.37036645082659,-20.33654983836367,0 -40.3702181518395,-20.33666931075738,0 -40.37006912179366,-20.33678979843805,0 -40.36997216830746,-20.33686033134573,0 -40.36990436844491,-20.33689298738718,0 -40.36977997649721,-20.33690529154554,0 -40.36971993266781,-20.33688684886973,0 -40.36963179537386,-20.3368422418657,0 -40.36956293348704,-20.3367397585535,0 -40.36952841862588,-20.33666519556275,0 -40.36950322831722,-20.33647131696763,0 -40.36952698245358,-20.33620662961965,0 -40.36953099637443,-20.33605051996086,0 -40.36949688195238,-20.33594202567061,0 -40.36941664152774,-20.33581652744368,0 -40.36909284112763,-20.33529945860802,0 -40.36890536861914,-20.33498063694135,0 -40.36876831175378,-20.33480671017153,0 -40.36869164038423,-20.33473397181406,0 -40.36843770148036,-20.33464207658157,0 -40.36777726332861,-20.33445373545822,0 -40.36753338663804,-20.33441274122479,0 -40.36747196362634,-20.33447267707329,0 -40.36741536320259,-20.33463638510116,0 -40.36727936112555,-20.33508532917252,0 -40.36703480888154,-20.33590253025258,0 -40.3668697619844,-20.33644856432544,0 -40.3668159180789,-20.33667567894825,0 -40.36680379627252,-20.3367855088554,0 -40.36677902808894,-20.33685230080594,0 -40.3667404661653,-20.33690790283734,0 -40.36670593160622,-20.33694804007617,0 -40.36662897134068,-20.33701108747718,0 -40.36648277486031,-20.33712907556093,0 -40.36634396425102,-20.33723484087229,0 -40.36627661318482,-20.33724325658503,0 -40.36624968488456,-20.33709168990879,0 -40.36632162317572,-20.335816024324,0 -40.36633061211263,-20.33569814078567,0 -40.36626977241889,-20.33558325683672,0 -40.36569158833756,-20.33460318105796,0 -40.36479205783793,-20.3350465497067,0 -40.36452146462888,-20.33519281639255,0 -40.36437271652945,-20.33576195397956,0 -40.36434832233792,-20.33595395471732,0 -40.36412159460809,-20.33618708491471,0 -40.36386594526354,-20.3364591731211,0 -40.36380486218684,-20.33647308180821,0 -40.36361959580986,-20.33633846637678,0 -40.36279868399282,-20.33567905056783,0 -40.36271392491717,-20.33563075312636,0 -40.36266325807207,-20.33567342572408,0 -40.36178888783346,-20.33666731051464,0 -40.36147240541205,-20.33701027031529,0 -40.36081687070698,-20.33776495966492,0 -40.36070811649469,-20.33785673524775,0 -40.3606189838176,-20.33786995439027,0 -40.3599254576435,-20.33729452524898,0 -40.35950034818492,-20.33695362716436,0 -40.35943565700158,-20.33692215140457,0 -40.3593286606291,-20.33693561807382,0 -40.35885481430776,-20.33695334684991,0 -40.35877446432509,-20.33694870617707,0 -40.35868935924384,-20.33686701724219,0 -40.35864962421213,-20.33675035542375,0 -40.35860414110202,-20.33618306514982,0 -40.35765663481809,-20.33545521705538,0 -40.35755935957672,-20.3353788553077,0 -40.35760883079755,-20.33524150947063,0 -40.35852831995304,-20.33419799504151,0 -40.35844677409725,-20.33412996381616,0 -40.35831965662585,-20.33401495072913,0 -40.35825139777073,-20.33392447183132,0 -40.35829329267266,-20.33383129531022,0 -40.35834814653096,-20.33382831969532,0 -40.35855120537482,-20.33400762393195,0 -40.35861757158034,-20.33395739872347,0 
 						</coordinates>
 					</LineString>
 				</Placemark>
@@ -37452,20 +37515,22 @@
 				<Placemark>
 					<name>736I_F</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin110000</styleUrl>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin1</styleUrl>
 					<LineString>
 						<coordinates>
-							-40.35882444140925,-20.33342325877857,0 -40.35878296108383,-20.33329811580427,0 -40.35870284966655,-20.33338607726963,0 -40.35840838983365,-20.33375911647516,0 -40.35840661965745,-20.33385964735339,0 -40.35843229042946,-20.33394517036053,0 -40.35849383148647,-20.33400997202644,0 -40.35900449645131,-20.33437867491966,0 -40.35913579417431,-20.33446730255782,0 -40.35989707793217,-20.3336260151505,0 -40.36143615120514,-20.33697091206479,0 -40.36267462996418,-20.33555499760418,0 -40.36382741509399,-20.3364381526713,0 -40.36422889821231,-20.33596768077396,0 -40.36427147934253,-20.33592854167607,0 -40.36446880744453,-20.33514639644136,0 -40.36570695006855,-20.33455000662292,0 -40.36602283492419,-20.33510647526906,0 -40.3663387248145,-20.33565093533309,0 -40.36624881771514,-20.33569980302006,0 -40.3658259891527,-20.33591861518572,0 -40.36570365537287,-20.33603594045353,0 -40.3656742355094,-20.33611835048065,0 -40.36564449577242,-20.33627574539248,0 -40.36560600274413,-20.33651224978965,0 -40.36559304657182,-20.33676887296084,0 -40.36565342027836,-20.33697083610927,0 -40.36579599959406,-20.33737105564316,0 -40.36581131989941,-20.33741369179089,0 -40.36581863647278,-20.33743650239602,0 -40.36585549895616,-20.33745636006923,0 -40.36590911159674,-20.3374464429791,0 -40.3666745629687,-20.33692646725451,0 -40.36673486470387,-20.33682789257465,0 -40.3668740772877,-20.33630412981239,0 -40.36715214217155,-20.33539231692892,0 -40.36743997337474,-20.33439239771958,0 -40.36748695971704,-20.33436898535338,0 -40.36757515927192,-20.3343750401087,0 -40.36852073318781,-20.33462292703498,0 -40.3686551534191,-20.33466647955695,0 -40.36880366833482,-20.33476850546812,0 -40.36899528733859,-20.3350692336504,0 -40.36954330336764,-20.33596338036663,0 -40.3695663303299,-20.33617355113022,0 -40.36954719029577,-20.33625552619392,0 -40.36953677533089,-20.33639739044313,0 -40.36954081161258,-20.3364978899525,0 -40.36954779027094,-20.3365974932909,0 -40.36959150193573,-20.33671238221105,0 -40.36963877794425,-20.33677897070736,0 -40.36975154150505,-20.33685628667563,0 -40.36987183577468,-20.33686126280843,0 -40.36999489659947,-20.33679550978269,0 -40.37052117136989,-20.33636979028272,0 -40.37082615093364,-20.33614155372926,0 -40.37090003432985,-20.3361032131866,0 -40.37099940604524,-20.3360793529657,0 -40.37122076873211,-20.33614444859895,0 -40.37262955018214,-20.33661685087509,0 -40.37325655542408,-20.336869891868,0 -40.37343982071721,-20.33694539959347,0 -40.37353783205488,-20.33701109691046,0 -40.37363842680947,-20.33711394486276,0 -40.37379360238369,-20.33727797127443,0 -40.37384796482582,-20.33737814977547,0 -40.37383554124821,-20.33751816404581,0 -40.37373513244418,-20.33777167544481,0 -40.37370265041063,-20.33792993877472,0 -40.37368397247241,-20.33835152544828,0 -40.37364841782998,-20.3385675115361,0 -40.37355545595454,-20.33892698902015,0 -40.37348083817656,-20.33913796663956,0 -40.37344786166257,-20.33927413915645,0 -40.37344862549067,-20.33948494375647,0 -40.37346034532239,-20.33958788025304,0 -40.37384275521661,-20.34078156683994,0 -40.3741546131664,-20.34192970181116,0 -40.37431570389127,-20.34255137519515,0 -40.3744277715867,-20.34277011842059,0 -40.37463879365591,-20.34308242367619,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.375746361723,-20.34770979312628,0 -40.37571024816754,-20.3477533264391,0 -40.37500474216984,-20.34591902882146,0 -40.37479892980156,-20.34578426947806,0 -40.3746682590376,-20.34575977199751,0 -40.37440365254181,-20.34573528030479,0 -40.37429911819752,-20.34575366234789,0 -40.374223988937,-20.34586393063871,0 -40.37337927519735,-20.34733541558624,0 -40.37323235298767,-20.34746137277683,0 -40.37316518632306,-20.34746924708441,0 -40.37313160139279,-20.34743776019468,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419777214959,-20.34516664952863,0 -40.37457103097437,-20.34511940144251,0 -40.37470955298559,-20.34490291295686,0 -40.37476411270023,-20.34469386192567,0 -40.37448280775391,-20.34380313135806,0 -40.3742686643806,-20.34275550841297,0 -40.37424602019775,-20.34251047883467,0 
+							-40.35882444140925,-20.33342325877857,0 -40.35878296108383,-20.33329811580427,0 -40.35870284966655,-20.33338607726963,0 -40.35840838983365,-20.33375911647516,0 -40.35840661965745,-20.33385964735339,0 -40.35843229042946,-20.33394517036053,0 -40.35849383148647,-20.33400997202644,0 -40.35900449645131,-20.33437867491966,0 -40.35913579417431,-20.33446730255782,0 -40.35989707793217,-20.3336260151505,0 -40.36143615120514,-20.33697091206479,0 -40.36267462996418,-20.33555499760418,0 -40.36382741509399,-20.3364381526713,0 -40.36422889821231,-20.33596768077396,0 -40.36427147934253,-20.33592854167607,0 -40.36445077291161,-20.33518366805838,0 -40.36569890549564,-20.33455060943176,0 -40.36599275244973,-20.33507941837978,0 -40.36633450224368,-20.3356439610116,0 -40.36624881771514,-20.33569980302006,0 -40.3658259891527,-20.33591861518572,0 -40.36570365537287,-20.33603594045353,0 -40.3656742355094,-20.33611835048065,0 -40.36564449577242,-20.33627574539248,0 -40.36560600274413,-20.33651224978965,0 -40.36559304657182,-20.33676887296084,0 -40.36565342027836,-20.33697083610927,0 -40.36579599959406,-20.33737105564316,0 -40.36581131989941,-20.33741369179089,0 -40.36581863647278,-20.33743650239602,0 -40.36585549895616,-20.33745636006923,0 -40.36590911159674,-20.3374464429791,0 -40.3666745629687,-20.33692646725451,0 -40.36673486470387,-20.33682789257465,0 -40.3668740772877,-20.33630412981239,0 -40.36715214217155,-20.33539231692892,0 -40.36743997337474,-20.33439239771958,0 -40.36748695971704,-20.33436898535338,0 -40.36757515927192,-20.3343750401087,0 -40.36852073318781,-20.33462292703498,0 -40.3686551534191,-20.33466647955695,0 -40.36880366833482,-20.33476850546812,0 -40.36899528733859,-20.3350692336504,0 -40.36954330336764,-20.33596338036663,0 -40.3695663303299,-20.33617355113022,0 -40.36954719029577,-20.33625552619392,0 -40.36953677533089,-20.33639739044313,0 -40.36954081161258,-20.3364978899525,0 -40.36954779027094,-20.3365974932909,0 -40.36959150193573,-20.33671238221105,0 -40.36963877794425,-20.33677897070736,0 -40.36975154150505,-20.33685628667563,0 -40.36987183577468,-20.33686126280843,0 -40.36999489659947,-20.33679550978269,0 -40.37052117136989,-20.33636979028272,0 -40.37082615093364,-20.33614155372926,0 -40.37090003432985,-20.3361032131866,0 -40.37099940604524,-20.3360793529657,0 -40.37122076873211,-20.33614444859895,0 -40.37262955018214,-20.33661685087509,0 -40.37325655542408,-20.336869891868,0 -40.37343982071721,-20.33694539959347,0 -40.37353783205488,-20.33701109691046,0 -40.37363842680947,-20.33711394486276,0 -40.37379360238369,-20.33727797127443,0 -40.37384796482582,-20.33737814977547,0 -40.37383554124821,-20.33751816404581,0 -40.37373513244418,-20.33777167544481,0 -40.37370265041063,-20.33792993877472,0 -40.37368397247241,-20.33835152544828,0 -40.37364841782998,-20.3385675115361,0 -40.37355545595454,-20.33892698902015,0 -40.37348083817656,-20.33913796663956,0 -40.37344786166257,-20.33927413915645,0 -40.37344862549067,-20.33948494375647,0 -40.37346034532239,-20.33958788025304,0 -40.37384275521661,-20.34078156683994,0 -40.3741546131664,-20.34192970181116,0 -40.37431570389127,-20.34255137519515,0 -40.3744277715867,-20.34277011842059,0 -40.37463879365591,-20.34308242367619,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.37553678056803,-20.34733823830165,0 -40.37547525221408,-20.34737670253758,0 -40.37400847896263,-20.34845855026731,0 -40.37294711370584,-20.34898262498377,0 -40.37286507464974,-20.34900185913223,0 -40.3726641681821,-20.34866119365826,0 -40.37260457478642,-20.34844124302861,0 -40.3725636060936,-20.34831206619366,0 -40.37242582240965,-20.34820023702476,0 -40.37221728258402,-20.34796982072046,0 -40.37192161115617,-20.34754119943807,0 -40.37184340583774,-20.34740504125233,0 -40.37184338805321,-20.34709082270996,0 -40.37187683235113,-20.34582041647106,0 -40.37189916827115,-20.34571218479156,0 -40.37196246717216,-20.34565632083248,0 -40.37207045494989,-20.34569122880642,0 -40.37232745066855,-20.34673163174185,0 -40.37250249387348,-20.34731241798982,0 -40.37268124017495,-20.3474380965528,0 -40.37299031488354,-20.34749743324445,0 -40.3730803901646,-20.34749393568642,0 -40.3731176234873,-20.34743807273563,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419595357372,-20.34517601693825,0 -40.37436156245976,-20.34514093872832,0 
 						</coordinates>
 					</LineString>
 				</Placemark>
 				<Placemark>
 					<name>736I_P</name>
 					<visibility>0</visibility>
-					<styleUrl>#msn_ylw-pushpin7101</styleUrl>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
 					<LineString>
 						<coordinates>
-							-40.3744277715867,-20.34277011842059,0 -40.37463879365591,-20.34308242367619,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.375746361723,-20.34770979312628,0 -40.37571024816754,-20.3477533264391,0 -40.37500474216984,-20.34591902882146,0 -40.37479892980156,-20.34578426947806,0 -40.3746682590376,-20.34575977199751,0 -40.37440365254181,-20.34573528030479,0 -40.37429911819752,-20.34575366234789,0 -40.374223988937,-20.34586393063871,0 -40.37337927519735,-20.34733541558624,0 -40.37323235298767,-20.34746137277683,0 -40.37316518632306,-20.34746924708441,0 -40.37313160139279,-20.34743776019468,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419777214959,-20.34516664952863,0 -40.37457103097437,-20.34511940144251,0 -40.37470955298559,-20.34490291295686,0 -40.37476411270023,-20.34469386192567,0 -40.37448280775391,-20.34380313135806,0 -40.3742686643806,-20.34275550841297,0 -40.37424602019775,-20.34251047883467,0 -40.37419179554755,-20.34228595230855,0 -40.37406294663571,-20.3417398874789,0 -40.37401125381548,-20.34153467549887,0 -40.37390977389657,-20.34114660460427,0 -40.37376050567087,-20.34065954184704,0 -40.3736981395658,-20.34041024599446,0 -40.37348358187109,-20.33977592934354,0 -40.37340616884921,-20.33953056349786,0 -40.3733962656661,-20.33940858699382,0 -40.37340761314717,-20.33923029153861,0 -40.37344302549091,-20.3390638256557,0 -40.37352563424936,-20.33888366914046,0 -40.37357148904138,-20.33869733521783,0 -40.37362724152411,-20.33847456887123,0 -40.37365284494033,-20.3382191975829,0 -40.37367114127499,-20.33789333810325,0 -40.37371082445823,-20.33774865164415,0 -40.37379751584066,-20.33755717184745,0 -40.37382132114695,-20.33745101580951,0 -40.37381590289509,-20.33738247731995,0 -40.37378373711005,-20.33732629289108,0 -40.37364523055357,-20.337167435077,0 -40.37344286316395,-20.33698696289515,0 -40.37327380230751,-20.33691923758505,0 -40.37287058413232,-20.33675969366725,0 -40.37253475009844,-20.33660997494502,0 -40.37221566325187,-20.33651476809234,0 -40.37162087207678,-20.33630943705531,0 -40.37107749242168,-20.33614349873167,0 -40.37093585879396,-20.33614237545748,0 -40.37081430057135,-20.33622389588104,0 -40.37065807931695,-20.33633817234019,0 -40.37036645082659,-20.33654983836367,0 -40.3702181518395,-20.33666931075738,0 -40.37006912179366,-20.33678979843805,0 -40.36997216830746,-20.33686033134573,0 -40.36990436844491,-20.33689298738718,0 -40.36977997649721,-20.33690529154554,0 -40.36971993266781,-20.33688684886973,0 -40.36963179537386,-20.3368422418657,0 -40.36956293348704,-20.3367397585535,0 -40.36952841862588,-20.33666519556275,0 -40.36950322831722,-20.33647131696763,0 -40.36952698245358,-20.33620662961965,0 -40.36953099637443,-20.33605051996086,0 -40.36949688195238,-20.33594202567061,0 -40.36941664152774,-20.33581652744368,0 -40.36909284112763,-20.33529945860802,0 -40.36890536861914,-20.33498063694135,0 -40.36876831175378,-20.33480671017153,0 -40.36869164038423,-20.33473397181406,0 -40.36843770148036,-20.33464207658157,0 -40.36777726332861,-20.33445373545822,0 -40.36753338663804,-20.33441274122479,0 -40.36747196362634,-20.33447267707329,0 -40.36741536320259,-20.33463638510116,0 -40.36727936112555,-20.33508532917252,0 -40.36703480888154,-20.33590253025258,0 -40.3668697619844,-20.33644856432544,0 -40.3668159180789,-20.33667567894825,0 -40.36680379627252,-20.3367855088554,0 -40.36677902808894,-20.33685230080594,0 -40.3667404661653,-20.33690790283734,0 -40.36670593160622,-20.33694804007617,0 -40.36662897134068,-20.33701108747718,0 -40.36648277486031,-20.33712907556093,0 -40.36628275937632,-20.33724424293482,0 -40.36623651025855,-20.33722045633757,0 -40.36632593134511,-20.33571194503282,0 -40.3662950970169,-20.33558426033245,0 -40.3659836869175,-20.33511011591034,0 -40.36570619491063,-20.33457525650914,0 -40.36452529014021,-20.3351303407116,0 -40.36435551697382,-20.33596769800509,0 -40.36410738800516,-20.33620687579382,0 -40.36386594526354,-20.3364591731211,0 -40.36380486218684,-20.33647308180821,0 -40.36361959580986,-20.33633846637678,0 -40.36279868399282,-20.33567905056783,0 -40.36271392491717,-20.33563075312636,0 -40.36266325807207,-20.33567342572408,0 -40.36178888783346,-20.33666731051464,0 -40.36147240541205,-20.33701027031529,0 -40.36081687070698,-20.33776495966492,0 -40.36070811649469,-20.33785673524775,0 -40.3606189838176,-20.33786995439027,0 -40.3599254576435,-20.33729452524898,0 -40.35950034818492,-20.33695362716436,0 -40.35943565700158,-20.33692215140457,0 -40.3593286606291,-20.33693561807382,0 -40.35885481430776,-20.33695334684991,0 -40.35877446432509,-20.33694870617707,0 -40.35868935924384,-20.33686701724219,0 -40.35864962421213,-20.33675035542375,0 -40.35860414110202,-20.33618306514982,0 -40.35765663481809,-20.33545521705538,0 -40.35755935957672,-20.3353788553077,0 -40.35760883079755,-20.33524150947063,0 -40.35852831995304,-20.33419799504151,0 -40.35844677409725,-20.33412996381616,0 -40.35831965662585,-20.33401495072913,0 -40.35825139777073,-20.33392447183132,0 -40.35829329267266,-20.33383129531022,0 -40.35834814653096,-20.33382831969532,0 -40.35853737418129,-20.33402093419209,0 -40.35857566591371,-20.3339942787339,0 -40.35860689406844,-20.33395403292304,0 
+							-40.37475165880586,-20.34325011269312,0 -40.37493467204475,-20.34345735541544,0 -40.37520300896475,-20.34368383229576,0 -40.37549681239008,-20.34383277167191,0 -40.37566413377174,-20.34387443552696,0 -40.37575336518889,-20.34388238530369,0 -40.37581105915041,-20.34391021022429,0 -40.37584524725524,-20.34395304128625,0 -40.37584534435302,-20.34399599175173,0 -40.37583400639641,-20.34403897615866,0 -40.37572179536283,-20.34419198936645,0 -40.37561270181832,-20.34438910400878,0 -40.37554583710974,-20.34455914717325,0 -40.37527844414485,-20.34535326334122,0 -40.37519001975125,-20.34553832953508,0 -40.37506024717521,-20.34595392204875,0 -40.37541619711782,-20.34683910915467,0 -40.37553678056803,-20.34733823830165,0 -40.37547525221408,-20.34737670253758,0 -40.37400847896263,-20.34845855026731,0 -40.37294711370584,-20.34898262498377,0 -40.37286507464974,-20.34900185913223,0 -40.3726641681821,-20.34866119365826,0 -40.37260457478642,-20.34844124302861,0 -40.3725636060936,-20.34831206619366,0 -40.37242582240965,-20.34820023702476,0 -40.37221728258402,-20.34796982072046,0 -40.37192161115617,-20.34754119943807,0 -40.37184340583774,-20.34740504125233,0 -40.37184338805321,-20.34709082270996,0 -40.37187683235113,-20.34582041647106,0 -40.37189916827115,-20.34571218479156,0 -40.37196246717216,-20.34565632083248,0 -40.37207045494989,-20.34569122880642,0 -40.37232745066855,-20.34673163174185,0 -40.37250249387348,-20.34731241798982,0 -40.37268124017495,-20.3474380965528,0 -40.37299031488354,-20.34749743324445,0 -40.3730803901646,-20.34749393568642,0 -40.3731176234873,-20.34743807273563,0 -40.37309381664321,-20.34736297745427,0 -40.3726403698622,-20.34554456945367,0 -40.37419777214959,-20.34516664952863,0 -40.37457103097437,-20.34511940144251,0 -40.37470955298559,-20.34490291295686,0 -40.37476411270023,-20.34469386192567,0 -40.37448280775391,-20.34380313135806,0 -40.3742686643806,-20.34275550841297,0 -40.37424602019775,-20.34251047883467,0 -40.37419179554755,-20.34228595230855,0 -40.37406294663571,-20.3417398874789,0 -40.37401125381548,-20.34153467549887,0 -40.37390977389657,-20.34114660460427,0 -40.37376050567087,-20.34065954184704,0 -40.3736981395658,-20.34041024599446,0 -40.37348358187109,-20.33977592934354,0 -40.37340616884921,-20.33953056349786,0 -40.3733962656661,-20.33940858699382,0 -40.37340761314717,-20.33923029153861,0 -40.37344302549091,-20.3390638256557,0 -40.37352563424936,-20.33888366914046,0 -40.37357148904138,-20.33869733521783,0 -40.37362724152411,-20.33847456887123,0 -40.37365284494033,-20.3382191975829,0 -40.37367114127499,-20.33789333810325,0 -40.37371082445823,-20.33774865164415,0 -40.37379751584066,-20.33755717184745,0 -40.37382132114695,-20.33745101580951,0 -40.37381590289509,-20.33738247731995,0 -40.37378373711005,-20.33732629289108,0 -40.37364523055357,-20.337167435077,0 -40.37344286316395,-20.33698696289515,0 -40.37327380230751,-20.33691923758505,0 -40.37287058413232,-20.33675969366725,0 -40.37253475009844,-20.33660997494502,0 -40.37221566325187,-20.33651476809234,0 -40.37162087207678,-20.33630943705531,0 -40.37107749242168,-20.33614349873167,0 -40.37093585879396,-20.33614237545748,0 -40.37081430057135,-20.33622389588104,0 -40.37065807931695,-20.33633817234019,0 -40.37036645082659,-20.33654983836367,0 -40.3702181518395,-20.33666931075738,0 -40.37006912179366,-20.33678979843805,0 -40.36997216830746,-20.33686033134573,0 -40.36990436844491,-20.33689298738718,0 -40.36977997649721,-20.33690529154554,0 -40.36971993266781,-20.33688684886973,0 -40.36963179537386,-20.3368422418657,0 -40.36956293348704,-20.3367397585535,0 -40.36952841862588,-20.33666519556275,0 -40.36950322831722,-20.33647131696763,0 -40.36952698245358,-20.33620662961965,0 -40.36953099637443,-20.33605051996086,0 -40.36949688195238,-20.33594202567061,0 -40.36941664152774,-20.33581652744368,0 -40.36909284112763,-20.33529945860802,0 -40.36890536861914,-20.33498063694135,0 -40.36876831175378,-20.33480671017153,0 -40.36869164038423,-20.33473397181406,0 -40.36843770148036,-20.33464207658157,0 -40.36777726332861,-20.33445373545822,0 -40.36753338663804,-20.33441274122479,0 -40.36747196362634,-20.33447267707329,0 -40.36741536320259,-20.33463638510116,0 -40.36727936112555,-20.33508532917252,0 -40.36703480888154,-20.33590253025258,0 -40.3668697619844,-20.33644856432544,0 -40.3668159180789,-20.33667567894825,0 -40.36680379627252,-20.3367855088554,0 -40.36677902808894,-20.33685230080594,0 -40.3667404661653,-20.33690790283734,0 -40.36670593160622,-20.33694804007617,0 -40.36662897134068,-20.33701108747718,0 -40.36648277486031,-20.33712907556093,0 -40.36634396425102,-20.33723484087229,0 -40.36627661318482,-20.33724325658503,0 -40.36624968488456,-20.33709168990879,0 -40.36632162317572,-20.335816024324,0 -40.36633061211263,-20.33569814078567,0 -40.36626977241889,-20.33558325683672,0 -40.36569158833756,-20.33460318105796,0 -40.36479205783793,-20.3350465497067,0 -40.36452146462888,-20.33519281639255,0 -40.36437271652945,-20.33576195397956,0 -40.36434832233792,-20.33595395471732,0 -40.36412159460809,-20.33618708491471,0 -40.36386594526354,-20.3364591731211,0 -40.36380486218684,-20.33647308180821,0 -40.36361959580986,-20.33633846637678,0 -40.36279868399282,-20.33567905056783,0 -40.36271392491717,-20.33563075312636,0 -40.36266325807207,-20.33567342572408,0 -40.36178888783346,-20.33666731051464,0 -40.36147240541205,-20.33701027031529,0 -40.36081687070698,-20.33776495966492,0 -40.36070811649469,-20.33785673524775,0 -40.3606189838176,-20.33786995439027,0 -40.3599254576435,-20.33729452524898,0 -40.35950034818492,-20.33695362716436,0 -40.35943565700158,-20.33692215140457,0 -40.3593286606291,-20.33693561807382,0 -40.35885481430776,-20.33695334684991,0 -40.35877446432509,-20.33694870617707,0 -40.35868935924384,-20.33686701724219,0 -40.35864962421213,-20.33675035542375,0 -40.35860414110202,-20.33618306514982,0 -40.35765663481809,-20.33545521705538,0 -40.35755935957672,-20.3353788553077,0 -40.35760883079755,-20.33524150947063,0 -40.35852831995304,-20.33419799504151,0 -40.35844677409725,-20.33412996381616,0 -40.35831965662585,-20.33401495072913,0 -40.35825139777073,-20.33392447183132,0 -40.35829329267266,-20.33383129531022,0 -40.35834814653096,-20.33382831969532,0 -40.35855120537482,-20.33400762393195,0 -40.35861757158034,-20.33395739872347,0 
 						</coordinates>
 					</LineString>
 				</Placemark>
@@ -37657,7 +37722,7 @@
 					<name>743I_P</name>
 					<visibility>0</visibility>
 					<open>1</open>
-					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<styleUrl>#msn_ylw-pushpin71</styleUrl>
 					<LineString>
 						<coordinates>
 							-40.38865127122908,-20.28248285054395,0 -40.38878830182587,-20.2826018437282,0 -40.38887975823442,-20.28271860716494,0 -40.38894326977696,-20.28284251929737,0 -40.38899132462574,-20.28305485669663,0 -40.38904489076243,-20.2837655120651,0 -40.38907537688381,-20.28392278517849,0 -40.38917932253048,-20.28409009635915,0 -40.38967465682683,-20.28469776821497,0 -40.38991141784376,-20.28501229986711,0 -40.39015530925393,-20.28545313926319,0 -40.39031536350473,-20.28570811109221,0 -40.39043256570192,-20.28591725087364,0 -40.3905924277224,-20.28607588560449,0 -40.39080326017871,-20.28619757686277,0 -40.39101177543844,-20.28623234380605,0 -40.39116237007174,-20.28623451477141,0 -40.39126199451525,-20.28623234016931,0 -40.39131991678929,-20.28629318647646,0 -40.39142626553603,-20.28656072998449,0 -40.39141931608557,-20.28662375031208,0 -40.39123397039747,-20.28671502389641,0 -40.39075438956985,-20.28691060982342,0 -40.39055791011929,-20.28696731686484,0 -40.39033089593275,-20.28704797531757,0 -40.39014515727998,-20.28711250181246,0 -40.38989406539791,-20.28709314640776,0 -40.38953978553709,-20.28700926661288,0 -40.38916142907595,-20.28688989766602,0 -40.38897913006442,-20.28677375373686,0 -40.38873528307466,-20.28655262602073,0 -40.38856674294922,-20.28629130103154,0 -40.38841540143456,-20.2860912744977,0 -40.38825030199028,-20.28591060519033,0 -40.38799233456191,-20.28566863672146,0 -40.38760644723958,-20.2853669969111,0 -40.38741383346628,-20.28511857572178,0 -40.38725217717998,-20.28477659329124,0 -40.3869030075321,-20.28409315916204,0 -40.38677918839665,-20.28373827214764,0 -40.38672071827087,-20.28358663842364,0 -40.38657969997952,-20.28340919359868,0 -40.38637677286128,-20.28308683756326,0 -40.38610162087552,-20.28248675381395,0 -40.38607066800111,-20.28230285743763,0 -40.38606379234054,-20.28206734100531,0 -40.3860603619836,-20.28156956787914,0 -40.3861566707204,-20.28135341139302,0 -40.38631488826416,-20.28124372144632,0 -40.38653845529691,-20.28115338944903,0 -40.38686176706526,-20.2810469267538,0 -40.38710597151361,-20.28089529488369,0 -40.387873303513,-20.28043810736757,0 -40.38832387294212,-20.28021227146893,0 -40.38873316882956,-20.28005741090767,0 -40.38912526848648,-20.27994448983872,0 -40.38944857990819,-20.2799122242268,0 -40.38970848007853,-20.27994448879754,0 -40.38982886141056,-20.27999610772333,0 -40.38999051695333,-20.28012515619179,0 -40.390214083937,-20.28030582362825,0 -40.39054480565147,-20.28052401125898,0 -40.39079932830213,-20.28069822556632,0 -40.39106417170991,-20.28099181006172,0 -40.39132557732848,-20.28130152495162,0 -40.39159042567218,-20.28167899066515,0 -40.39171425186874,-20.28185320573326,0 -40.39184527779392,-20.28199198562172,0 -40.39195534293339,-20.28205650821144,0 -40.39211355963527,-20.28205005257556,0 -40.39240247635023,-20.28198552159084,0 -40.39252285914795,-20.28198874507625,0 -40.39285305819975,-20.28218876418337,0 -40.39305943325361,-20.28229199893148,0 -40.39334147832442,-20.28235006419859,0 -40.39347218471943,-20.28243394340464,0 -40.39356505890845,-20.282598480206,0 -40.39365105180955,-20.28268558711769,0 -40.39371640661803,-20.28275011079855,0 -40.39440173439439,-20.28304059345903,0 -40.39459779416655,-20.28316963665204,0 -40.39474570158857,-20.28331158660243,0 -40.39496760975803,-20.28347455718599,0 -40.39519118414494,-20.2835519783777,0 -40.39557641571828,-20.2835261524786,0 -40.39586534052003,-20.28349387719169,0 -40.39602221507536,-20.28348096805727,0 -40.39616323800792,-20.28350031920209,0 -40.39627674272381,-20.28347773022051,0 -40.39644871863546,-20.28341964951148,0 -40.39694452259347,-20.28324545198913,0 -40.39694451932723,-20.28318415342035,0 -40.39676220006313,-20.28271635703215,0 -40.39677939536668,-20.28267118874015,0 -40.39851941642163,-20.28196757360391,0 -40.39859508740952,-20.28199337912007,0 -40.39887027670564,-20.28241277483276,0 -40.39888747966711,-20.28249342998354,0 -40.39873270535981,-20.28256764252194,0 -40.39768586003837,-20.28305398952762,0 -40.39733847387696,-20.28317337861803,0 -40.39678471954157,-20.28333794366427,0 -40.39612090339978,-20.28356380970204,0 -40.39595236992552,-20.28363479401635,0 -40.39574748546937,-20.28373387658277,0 -40.39552048499726,-20.28392423358307,0 -40.39529692860645,-20.2842275081691,0 -40.39499770500365,-20.28462434639483,0 -40.39417368799512,-20.28573538896808,0 -40.39396044580691,-20.2860709241217,0 -40.39381943240191,-20.28634838452223,0 -40.39374033159815,-20.28663552198432,0 -40.39368531183897,-20.28704525684348,0 -40.39338959019436,-20.28976102479982,0 -40.3931179304448,-20.29226981210093,0 -40.39312825861101,-20.29257953033623,0 -40.39317642182923,-20.29282149690035,0 -40.39326930293012,-20.29310217756499,0 -40.39391148797418,-20.29405895561095,0 -40.39420044007007,-20.29440415375112,0 -40.39450967471476,-20.29481114930887,0 -40.39470361008357,-20.29511894808199,0 -40.394793125612,-20.29542675096686,0 -40.39483789617912,-20.29589545582628,0 -40.39482301787751,-20.29685287684,0 -40.39483794710367,-20.29714668974598,0 -40.39494237976619,-20.29741251732728,0 -40.39515869706533,-20.29775529235818,0 -40.39590948928581,-20.2986248994033,0 -40.39621531799498,-20.29901663755355,0 -40.39641672725801,-20.29945035349067,0 -40.39649133235623,-20.29977914200523,0 -40.39655849749585,-20.3004577116912,0 -40.39652122853132,-20.30094041192589,0 -40.39638699192064,-20.30140213185484,0 -40.39615215145709,-20.30165490311877,0 -40.39562258192419,-20.30196272977181,0 -40.39501095252548,-20.3020397042969,0 -40.39464546343304,-20.30201173515477,0 -40.39454103457524,-20.3019138007565,0 -40.3944589292373,-20.30040276211788,0 -40.39439803834433,-20.30026244501146,0 -40.39428946743367,-20.30018297596045,0 -40.39389491080347,-20.30000914223933,0 -40.39268560643593,-20.29948662490392,0 -40.39246052650661,-20.29940219052152,0 -40.39216924753049,-20.29931527373333,0 -40.3919997767039,-20.29929044196437,0 -40.39178958917552,-20.2992606437296,0 -40.39154067897612,-20.29922587892476,0 -40.39135002375122,-20.29914889312598,0 -40.39114348025737,-20.29902968758189,0 -40.3909872493534,-20.29897505240578,0 -40.39082572312772,-20.29896015340072,0 -40.39074893211953,-20.29896512132741,0 -40.39056075490546,-20.29903466208935,0 -40.39033038282174,-20.29912655461688,0 -40.39013178612505,-20.29921347944787,0 -40.38997820416607,-20.29924576640437,0 -40.3898775809972,-20.29921844851074,0 -40.3898113814299,-20.29918616327559,0 -40.38967588261718,-20.299015434286,0 -40.38952229934361,-20.29880682005444,0 -40.38941638034601,-20.29871493057369,0 -40.38929986968447,-20.29864042561602,0 -40.38882168252022,-20.29841002475508,0 -40.38854894311689,-20.29830075033719,0 -40.38819411744378,-20.29818899164917,0 -40.3878322421623,-20.2980864763651,0 -40.38732828923909,-20.29788089762619,0 -40.38705819980051,-20.29773436809148,0 -40.38688873296152,-20.29758783925134,0 -40.38670867542971,-20.29738170574554,0 -40.38659216825251,-20.29721034179629,0 -40.38651537925441,-20.29711596710601,0 -40.38487814362583,-20.29593619469711,0 -40.38480665244848,-20.29583436905183,0 -40.38482519138783,-20.29568784197126,0 -40.38492581506993,-20.29555870107121,0 -40.38505291849753,-20.29539975806955,0 -40.38508999111649,-20.29532028596789,0 -40.38502909182331,-20.29521100946848,0 -40.38376434819315,-20.29392099172535,0 -40.38369815465374,-20.29381171511685,0 -40.38369286296263,-20.29368753888956,0 -40.38373523332027,-20.293555913208,0 -40.38401211923308,-20.2928982016868,0 -40.3840571373152,-20.29274670850891,0 -40.38414982701716,-20.29224752395395,0 -40.38419484810849,-20.29196675557771,0 -40.3841948519787,-20.2918301622897,0 -40.38417367307743,-20.2916960519745,0 -40.3841180709034,-20.29160912756864,0 -40.38401216024815,-20.2915097842437,0 -40.38381622323904,-20.29141043840137,0 -40.38306241273272,-20.29107312638576,0 -40.38282940945719,-20.29091417407173,0 -40.38272349992616,-20.29081979697616,0 -40.38260170544714,-20.29067574887367,0 -40.38249315059021,-20.29052176685279,0 -40.38194225859022,-20.28960929472983,0 -40.38185753613366,-20.28944041255331,0 -40.38178870168709,-20.28924917923494,0 -40.38175429268782,-20.28897102373766,0 -40.38174107091028,-20.288575712036,0 -40.38170401250886,-20.28833729323055,0 -40.38162988125922,-20.28818827933211,0 -40.38155310019832,-20.28808645203065,0 -40.38143924868157,-20.28801939238128,0 -40.38131480549422,-20.28796474975931,0 -40.38116653030426,-20.28795232583855,0 -40.38064537004291,-20.2879746550047,0 -40.38039118443899,-20.28794980813196,0 -40.38021643363115,-20.28789764572437,0 -40.3800840485476,-20.28782064985898,0 -40.37995706576312,-20.28764645659365,0 -40.37986439791199,-20.2875719464847,0 -40.37981409051285,-20.28756697698231,0 -40.37965786710527,-20.28765140879103,0 -40.37869057441863,-20.28812322501516,0 -40.37785914630559,-20.28848328607514,0 -40.37650614160483,-20.28904268801057,0 -40.37631550785229,-20.28917926809124,0 -40.37624135530882,-20.28935807601184,0 -40.37615923872383,-20.28979268637798,0 -40.37589735436053,-20.29143995216695,0 -40.37575957861307,-20.29250174371768,0 -40.37553781592777,-20.29385528139588,0 -40.3754927656185,-20.29427705346892,0 -40.37551127847783,-20.29454030756908,0 -40.3755536119066,-20.29493270618668,0 -40.37554828982886,-20.29525059626516,0 -40.3754821930364,-20.29561350953307,0 -40.37535508881301,-20.29566317026766,0 -40.37505587650699,-20.295640795718,0 -40.37488905511869,-20.29567555198445,0 -40.37481225276868,-20.2958220734594,0 -40.37480693077705,-20.29611761192997,0 -40.37486512525134,-20.29679043466271,0 -40.37481213587677,-20.29713812272022,0 -40.37471412585777,-20.29754541290031,0 -40.37453137585462,-20.29800880936272,0 -40.3743248172804,-20.29820747429444,0 -40.37402558320532,-20.29836142862142,0 -40.3737740195377,-20.29842846350235,0 -40.37349076511433,-20.29853995624543,0 -40.37323389319786,-20.29874109894396,0 -40.37301145321008,-20.29885035443461,0 -40.37272546872501,-20.29888758208064,0 -40.37233621779659,-20.29887264642577,0 -40.37183840530892,-20.29878567798018,0 -40.37091951418131,-20.29858690404282,0 -40.37051967867038,-20.29853222613626,0 -40.37022575718416,-20.29851481129034,0 -40.36969056222843,-20.2984799854052,0 -40.36916182807308,-20.29848986236754,0 -40.36865076966293,-20.29850222245397,0 -40.36857132928802,-20.29851463101661,0 -40.36853690005773,-20.29855933037119,0 -40.36854107741284,-20.29889274516781,0 -40.36854099952973,-20.29949170477109,0 -40.36855523165708,-20.29999679807505,0 -40.36855516827161,-20.30048848036732,0 -40.36855514126255,-20.30069856310775,0 -40.36854173027532,-20.30079223835086,0 -40.36844830793893,-20.3009438441785,0 -40.36829021297484,-20.30116619688039,0 -40.36808541982678,-20.30136159007576,0 -40.36797403982698,-20.30147613187817,0 -40.36790577051455,-20.30157720188594,0 -40.3678743444826,-20.30168574109286,0 -40.3678491778045,-20.30183398528958,0 -40.36782042183824,-20.30195864436995,0 -40.36776292725538,-20.30207656161086,0 -40.36768747721633,-20.30214393776487,0 -40.36748628140919,-20.30228879193702,0 -40.36741442261149,-20.3023629071081,0 -40.36741441070004,-20.30245050812076,0 -40.36744810408826,-20.30253641998916,0 -40.36793635385735,-20.30318086909382,0 -40.36796472906838,-20.30330602300123,0 -40.36792212732106,-20.30341252918521,0 -40.36782841633349,-20.3035483200167,0 -40.36768358137286,-20.3038188786516,0 -40.3676523244868,-20.30401059468382,0 -40.36764377351766,-20.30425823205289,0 -40.3676522464419,-20.30458821151422,0 -40.3677146765739,-20.30482786863794,0 -40.36781971005765,-20.30495569443174,0 -40.3680092439993,-20.30515658383323,0 -40.36807737193415,-20.30525511435835,0 -40.36809722986351,-20.30538026701422,0 -40.36808017416966,-20.30553470603602,0 -40.36809434527499,-20.30572376493294,0 -40.36823908016488,-20.30622010890376,0 -40.36837813624288,-20.30672871491974,0 -40.36847746357812,-20.30708820211437,0 -40.36860167228579,-20.30742442438648,0 -40.36865274630824,-20.30767739386772,0 -40.36868394509359,-20.3079356871741,0 -40.36868455186205,-20.30854846194908,0 -40.36870723664215,-20.30877746294101,0 -40.36879238933106,-20.30897718056274,0 -40.36900246875076,-20.30919288901515,0 -40.36930251264814,-20.30949438113918,0 -40.36947283276119,-20.30979529342952,0 -40.36984400789196,-20.31040169483129,0 -40.36992347341018,-20.31069194586939,0 -40.36989221650239,-20.31089431394424,0 -40.36965695506822,-20.31136088175221,0 -40.36943261736128,-20.31161382119235,0 -40.36864381464378,-20.31231223358024,0 -40.3684989786311,-20.31254121624847,0 -40.36821654218775,-20.31331782102376,0 -40.36782173530685,-20.31433160121989,0 -40.36767688086231,-20.31466975782696,0 -40.36740911237111,-20.31533903980542,0 -40.36713359402144,-20.31604198041187,0 -40.36652663837634,-20.31760913887432,0 -40.36585676016776,-20.31928461710453,0 -40.36574598621459,-20.31951626464829,0 -40.36540518505912,-20.31993960200446,0 -40.36513823765441,-20.32017655436011,0 -40.36489401668079,-20.32033895173715,0 -40.36461521565944,-20.32048560692611,0 -40.36435112619085,-20.32058675599049,0 -40.36396778050905,-20.32067191132584,0 -40.363445308166,-20.3207037907307,0 -40.36268715436027,-20.32074362400333,0 -40.36174065137732,-20.32078221162769,0 -40.36124167175431,-20.32085935516111,0 -40.36094634552575,-20.32096315742958,0 -40.36058285631413,-20.32114416949788,0 -40.36029602498543,-20.32136247310925,0 -40.36002464513815,-20.32163800319307,0 -40.35976900938245,-20.32206666832499,0 -40.35951904736517,-20.32251663759295,0 -40.35850375348833,-20.32440419802399,0 -40.35827367475309,-20.32477694815151,0 -40.35812029460808,-20.32499527004174,0 -40.35782645378361,-20.32531682722286,0 -40.35753675834481,-20.32558305499426,0 -40.35728967349377,-20.32577206857296,0 -40.3569091176784,-20.32600898748822,0 -40.35645189274418,-20.32624589182351,0 -40.3550710711003,-20.3269120095978,0 -40.35471832888408,-20.32701053815805,0 -40.35449111279718,-20.32703046942571,0 -40.35401020859414,-20.32706560198906,0 -40.35366107648535,-20.32713445441448,0 -40.35345105769917,-20.32724025571645,0 -40.35322263768527,-20.32746174187359,0 -40.35308610967348,-20.32759709502974,0 -40.35290237519086,-20.32777238933649,0 -40.35280523061864,-20.32786590530185,0 -40.35276321098047,-20.32795450949701,0 -40.35291015081745,-20.32820314738254,0 -40.35330898409815,-20.32890445303024,0 -40.35348738185873,-20.32934755290771,0 -40.35373916279077,-20.33031350930664,0 -40.3537968250382,-20.33070735638075,0 -40.35374403247489,-20.33200544729269,0 -40.35368623128919,-20.33223189137492,0 -40.35361008160618,-20.33233771962994,0 -40.35311397523314,-20.33222931462258,0 -40.35288035604453,-20.33219480667036,0 -40.35256009068863,-20.33224889388172,0 -40.35235272121873,-20.33221685241243,0 -40.35232124467412,-20.3321159255812,0 -40.35234491555944,-20.33192147436026,0 -40.3524027074914,-20.33174426059845,0 -40.35240799719335,-20.33157442054572,0 -40.35238186246473,-20.33107966014861,0 -40.35237144188525,-20.3307412581795,0 -40.35240557374054,-20.33071172761032,0 -40.35266808188129,-20.33067485939995,0 -40.35301984301545,-20.33062323999235,0 -40.3531392587851,-20.33057178023988,0 -40.35342598548964,-20.33044650100836,0 -40.35347636014169,-20.33040836504043,0 -40.35348412321293,-20.3303447899847,0 
